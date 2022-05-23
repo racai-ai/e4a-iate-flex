@@ -1,0 +1,850 @@
+2231895;virus ARN încapsulat
+1686508;vaccin recombinat
+1686508;vaccin recombinant
+1109292;studiu observațional
+1073855;vaccin subunitar
+3590869;mecanismul pentru accesul mondial la vaccinuri împotriva COVID-19
+3590869;mecanismul COVAX
+3589647;model dinamic cu compartimente
+815757;certificat de vaccinare
+815757;adeverință doveditoare de vaccinare
+815757;adeverință de vaccinare
+3592562;variantă genetică
+3592561;VOC
+3592561;variantă a SARS-CoV-2care determină îngrijorare
+3590601;vaccin de tip ARNm
+3589709;suspendare temporară a contractului individual de muncă
+3589142;timp de mașină pentru extracția ARN
+3589141;timp de mașină al echipamentului PCR
+3589156;urgență de sănătate publică de importanță majoră
+3590646;proteină S100
+1373093;reproductibilitate
+1373092;repetabilitate
+3590043;vaccin cu vector viral
+786589;flux comercial
+3590645;calprotectină
+3589579;plan de răspuns umanitar la nivel mondial
+3589688;mobilitate activă
+3589688;transport nemotorizat
+3538523;încărcătură virală
+3538523;viremie
+3589679;apărarea sănătății publice
+3589679;protecția sănătății publice
+3589679;protecția sănătății
+3589679;ocrotirea sănătății
+3589679;apărarea sănătății
+3589765;a „reconstrui mai bine”
+1221782;heterodimer
+3520615;amenințări transfrontaliere grave privind sănătatea
+3589646;enzima 2 de conversie a angiotensinei
+3589646;angiotensin-convertaza 2
+3589646;ACE2
+1142188;saturaţie în oxigen a sângelui arterial
+3590042;vaccin cu acid nucleic
+3590623;abordare la nivelul întregii societăți
+3590641;pulsoximetru
+3590640;ARDS asociat COVID-19
+3590640;sindrom de detresă respiratorie acută asociat COVID-19
+3553005;recipient multidoză
+3553005;flacon multidoză
+3590526;infecție acută
+1354243;ARDS
+1354243;sindrom de detresă respiratorie a adultului
+1354243;sindrom de detresă respiratorie acută
+3590592;funcție respiratorie compromisă
+3590594;dispozitiv respirator invaziv
+3589632;acceleratorul ACT
+3589632;ACT-A
+3589632;accelerator al accesului la instrumentele de combatere a COVID-19
+1645565;picătură
+1645565;picătură de secreție
+3590835;aerosol
+1108831;rată de atac
+3590080;plan național de redresare și reziliență
+3590080;PNRR
+3590615;Janus kinază
+3589821;MRR
+3589821;Mecanismul de redresare și reziliență
+3590037;inhibitor de JAK
+3590037;inhibitor de Janus kinază
+3589174;limitare a mișcării persoanelor
+3589174;restricții de deplasare a persoanelor
+36453;pandemie
+1686420;insuficienţă respiratorie acută
+1686420;detresă respiratorie acută
+3590984;caz paucisimptomatic
+924418;Alianța Mondială pentru Vaccinuri și Imunizare
+3528195;Centrul de coordonare a răspunsului la situații de urgență
+3528195;ERCC
+928694;CSS
+928694;Comitetul pentru securitate sanitară
+3589927;NGEU
+3589927;NextGenerationEU
+3589927;Next Generation EU
+3589927;Instrumentul european de redresare
+3589927;Instrumentul de redresare al Uniunii Europene
+3591122;Grupul consultativ strategic de experţi în imunizare
+3591122;SAGE
+3589637;Fondul de răspuns solidar la pandemia de COVID-19
+3590731;aspirat traheal profund
+3590522;fostamatinib
+3590205;mască cu supapă
+3589344;aparat de protecție respiratorie
+3589344;semi-mască filtrantă împotriva particulelor
+3578688;ordine internațională bazată pe norme
+824386;tehnologie curată
+834662;apariție a unui focar
+834662;izbucnire epidemică
+834662;focar
+2233421;urgenţă de sănătate publică de importanţă internaţională
+3589609;verificarea conformității datelor din formularul de raportare cu datele sursă
+1084887;Centrul european pentru medicina catastrofelor
+1196778;șomaj parțial
+1196778;reducere a timpului de muncă
+3550291;lucrător frontalier
+1878795;vaccin preparat prin tehnici ADN
+1073809;imunogenitate
+1431364;imunitate dobândită
+3528010;reducere a activității
+3528010;schemă privind reducerea timpului de muncă
+1431892;reacția de polimerizare în lanț
+1431892;PCR
+1431892;reacția în lanț a polimerazei
+1109325;perioadă de transmisibilitate
+3589714;transmitere prin contact indirect
+2247364;transmitere aeriană
+3589708;transmitere prin secreții respiratorii
+3589706;transmitere de la persoane asimptomatice
+3589704;transmitere în perioada presimptomatică
+3578988;transmitere interumană
+3589690;sindromul Kawasaki
+3589690;boala Kawasaki
+3589689;sindrom inflamator multisistemic potenţial asociat COVID-19
+3589689;sindrom inflamator Kawasaki-like
+3589680;rată de atac a unei epidemii
+3589291;Grupul de coordonare privind deficitele de medicamente și siguranța acestora
+3589644;hipoxie silențioasă
+3589670;prag epidemic
+3589713;transmitere prin contact direct
+3589712;transmitere de contact
+3591524;fatigabilitate în urma infecției cu SARS-CoV-2
+3591524;sindrom de oboseală cronică post COVID-19
+1568670;cohortă
+3589346;călătorie neesențială
+3590568;prospectul UE pentru redresare
+3589422;Echipa Europa
+3589703;transmitere de la persoane simptomatice
+755778;videoconferință
+3589710;nucleu de picătură
+241451;plămân
+3591127;Strategia UE privind vaccinurile împotriva COVID-19
+3591127;Strategia UE privind vaccinurile
+3589090;Inițiativa pentru investiții ca reacție la coronavirus
+3591071;serverul european de acces pentru interoperabilitate
+3591071;EFGS
+3535608;autorizație de introducere pe piață condiționată
+3589393;Grupul operativ CRII
+3589393;Grupul operativ aferent Inițiativei pentru investiții în răspunsul la coronavirus
+3589335;Inițiativa plus pentru investiții în răspunsul la coronavirus
+3589335;CRII+
+3589970;virus modificat genetic
+3589520;eliminare a unei boli
+903654;achiziție comună
+903654;achiziție publică comună
+877217;investiție străină directă
+877217;ISD
+3573101;investiție străină
+3589224;culoar verde
+3589224;punct de trecere a frontierei pentru culoarele verzi
+3590014;programul „UE pentru sănătate”
+3590014;program de acțiune a Uniunii în domeniul sănătății
+3589757;set de instrumente al UE
+3589181;izbucnire a epidemiei de COVID-19
+3589181;focar de COVID-19
+3589716;distanțare fizică
+3503043;distanțare socială
+3591054;Grupul operativ pentru redresare și reziliență
+3591999;sistemul GAEN
+43738;autorizație de introducere pe piață acordată în circumstanțe excepționale
+1142228;capacitate vitală forțată
+1142228;CVF
+3591857;strategie de testare
+3592206;baricitinib
+1084879;eradicare
+3588006;SARS-CoV-2
+3588006;coronavirusul sindromului respirator acut sever 2
+3588006;coronavirusul 2 care cauzează sindromul respirator acut sever
+3588006;virusul care provoacă COVID-19
+3588006;noul coronavirus din China
+3588006;noul coronavirus
+3588006;2019-nCoV
+3591475;interferon tip III
+3589535;Planul strategic de pregătire și răspuns
+3589563;redresare
+3589305;pandemia de COVID-19
+3589942;Plan de redresare al UE
+3589942;plan de redresare pentru Europa
+3589942;plan de redresare
+3589558;reuniune online
+1431908;rată de infectare
+3589439;măsuri de limitare a circulației persoanelor
+3589439;măsuri de izolare
+3589439;măsuri de limitare a mișcării persoanelor
+771416;învățare la distanță
+771416;învățare on-line
+1569466;mortalitate
+1569466;rata mortalității
+3589338;criză provocată de pandemia de COVID-19
+3589338;criză provocată de coronavirus
+3504428;transmitere susținută de la om la om
+3591474;peginterferon lambda
+1529883;compartiment de terapie intensivă
+1529883;secție de terapie intensivă
+389315;mijloace medicale de contracarare
+3582130;PLF
+3582130;formular de localizare a pasagerilor
+3589425;transmitere zoonotică
+3589693;studiu controlat
+3589693;studiu clinic controlat
+3549541;coronavirusul sindromului respirator din Orientul Mijlociu
+3549541;MERS-CoV
+1196107;CoV
+1196107;coronavirus
+3567652;pregătire pentru situații de criză
+2220518;test de provocare
+3590980;reactogenicitate
+1666724;clorpromazină
+3592011;asistență în materie de protecție civilă
+1354263;fibroză pulmonară
+3589493;plasmă convalescentă
+3589493;plasmă de convalescent
+3589521;eliminare a infecțiilor
+1528593;imunizare activă
+3592205;testarea persoanelor asimptomatice
+3590614;Alianța pentru vaccin incluziv
+3589292;RBD
+3589292;domeniu de legare al receptorului
+1885412;hidroxiclorochină
+3542724;favipiravir
+1073794;sistem imunitar
+1684730;imunizare pasivă
+3589549;domeniu al proteinei
+930943;derivat din plasmă
+930943;produs din plasmă
+930943;produs derivat din plasmă
+1661603;proteină S
+1661603;spicul glicoproteic
+1661603;proteină virală de suprafață
+3591218;constituire de stocuri strategice
+1685660;hipoxemie
+1085075;hipoxie
+3539833;centru de donare de sânge
+3591004;componenta dedicată sprijinului pentru solvabilitate
+858341;învățământ la distanță
+858341;învățământ on-line
+858341;educație la distanță
+858341;educație on-line
+3589698;serviciu de transfuzie sanguină
+2222229;conferință on-line
+2222229;conferință web
+3590138;Alianța pentru redresare verde
+3589460;centru de coordonare pentru echipamente medicale (COVID-19)
+3589461;centru de coordonare pentru echipamente medicale
+3589661;infrastructură de experimentare a tehnologiilor pentru volume mari de date
+3589659;plasmă convalescentă COVID-19
+1109059;rezultat fals pozitiv
+1109059;test fals pozitiv
+1109058;test fals negativ
+1109058;rezultat fals negativ
+1109058;eroare beta
+3503321;picătură Flügge
+3503321;picătură de secreție respiratorie
+1668882;pandemic
+157022;amenințare la adresa sănătății publice
+157022;amenințare pentru sănătatea publică
+1751328;protecție încrucișată
+1863832;nivel de biosecuritate
+3589469;trusă de testare
+3535616;procedură descentralizată
+1685300;miocardită
+1174846;supraveghere epidemiologică
+1196199;cardiomiopatie
+3589775;procedură ECMP
+34937;SMI
+34937;stat membru interesat
+1109348;studiu populațional
+3589732;confirmare a infectării
+3589734;notificare de expunere
+3589733;utilizator expus la virus
+1442739;sensibilitate
+1529636;perioada de incubație
+1238760;contaminare încrucișată
+1073802;reacție imunologică
+1073802;răspuns imun
+1505585;reactiv
+1878639;specificitate analitică
+1547730;particulă virală
+1547730;virion
+1073454;infecțiozitate
+1431837;capsidă
+3510249;probă prelevată pe tampon
+3590998;portofoliu de vaccinuri potențiale
+928615;securitatea sănătății publice
+928615;securitate sanitară
+3589735;utilizator infectat
+3590163;producător de vaccinuri
+3591200;echipă medicală de urgență de tip 3
+3570678;depistare la intrare
+3589158;dezastru natural regional
+3589157;dezastru natural major
+3589157;catastrofă naturală majoră
+234317;asimptomatic
+3591802;rată de testare
+3591801;rată a testelor pozitive
+3591801;rată de pozitivare a testelor
+3591800;rată de notificare cumulată a cazurilor de COVID-19 pe o perioadă de 14 zile
+3591800;incidența cumulată la 14 zile a cazurilor de COVID-19
+1494479;capsomer
+3570285;test anticorp
+3570285;test de detecție a anticorpilor
+1356546;flacon
+1687028;uz compasional
+3589731;detectarea proximității
+1667163;frecvență respiratorie
+3589286;măsură de sprijin în contextul crizei provocate de pandemie
+3589456;studiu sero-epidemiologic
+3524674;control pozitiv
+3524674;material cu rol de control pozitiv
+3510330;specificitate de diagnostic
+3589471;foaie de parcurs europeană comună pentru ridicarea măsurilor de limitare a răspândirii bolii COVID-19
+3589471;foaie de parcurs europeană comună pentru ridicarea măsurilor de limitare a răspândirii bolii provocate de coronavirusul SARS-CoV-2
+3589170;grup consultativ privind COVID-19
+2251338;infecție de tract respirator
+3545037;test antigenic
+3545037;test antigen
+3510353;sensibilitate de diagnostic
+1073807;imunitate activă
+3503305;boală a căilor respiratorii superioare
+1196110;infecție respiratorie acută
+1431911;transmitere verticală
+3503151;secreţie a căilor respiratorii
+48702;boală respiratorie
+3503204;contact apropiat
+1498999;plasmă
+3590045;eveniment internațional pentru donații în cadrul răspunsului mondial la criza provocată de coronavirus
+3590045;summit privind răspunsul mondial la criza provocată de coronavirus
+1442771;utilizare în condiții de izolare
+1226360;donator de plasmă
+3589745;medicament matur
+3501925;probă prelevată pe tampon nazal
+3501925;tampon de exudat nazofaringian
+3509347;angajament anticipat de piață
+3509347;angajament prealabil de achiziție
+1686888;tampon orofaringian
+1529310;reacție inflamatorie
+1529310;inflamație
+1076834;miocard
+35486;spălătură nazală
+35486;spălătură nazofaringiană
+1431384;plasmafereză
+1224959;imunoglobulină
+1230544;lavaj bronhoalveolar
+1230544;LBA
+1704783;sensibilitate analitică
+3589548;caz asimptomatic contagios
+1686891;exudat nazofaringian
+3589468;test rapid de detecție a unui antigen
+3589468;test antigenic rapid
+1507975;cluster
+1507975;cazuri grupate
+3545441;investigații la locul acordării asistenței medicale
+3545441;POCT
+160302;autotest
+160302;test autoadministrabil
+48564;test rapid
+48564;test rapid pentru diagnosticul unei infecții
+909445;nespecialist
+1073438;membrană biologică
+1073484;proteină de membrană
+3589524;persoană care prezintă contagiozitate ridicată
+844144;eveniment de strângere de donații
+844144;eveniment de atragere de fonduri
+844144;conferința donatorilor
+1684624;receptor
+1109370;caz primar
+1529957;interferon
+3589497;Planul de acțiune SEC<i>vs</i>Corona
+896984;dispozitiv pentru autotestare
+3589496;platforma europeană de date privind COVID-19
+1353735;studiu epidemiologic
+1431898;caz index
+1186713;glicoproteină de înveliș
+3589533;portal de date privind COVID-19
+1111568;curbă epidemică
+1684573;interleukină
+1684573;IL
+1490194;plexiglas
+1490194;PMMA
+1490194;polimetacrilat
+2201460;medicament pentru tratamente „off-label”
+2201460;medicament cu utilizare în afara indicațiilor terapeutice
+147773;oxigenoterapie
+764448;preparat magistral
+3589114;VA-ECMO
+3589114;oxigenare extracorporală prin membrană veno-arterial
+1431905;persoană asimptomatică
+1431905;pacient asimptomatic
+1895895;ivermectină
+3589216;epidemie de informații
+3589216;epidemie informațională
+3589216;infodemie
+1667295;anestezic
+1099872;test serologic
+3589115;VV-ECMO
+3589115;oxigenare extracorporală prin membrană veno-venos
+1890248;principiu activ
+3589445;relaxare a măsurilor de distanțare socială
+3589445;eliminare a măsurilor restrictive
+1085689;triaj clinico-epidemiologic
+1430862;farmacie de spital
+1687111;relaxant muscular
+1687111;miorelaxant
+3589297;ECMO veno-venos și veno-arterial
+3518689;studiu clinic intervențional multicentric
+3589452;infecție cu virusul SARS-CoV-2
+3589326;test pentru diagnosticul infecției cu SARS-CoV-2
+3589326;testare pentru SARS-CoV-2
+3589326;test pentru COVID-19
+1886414;ritonavir
+768263;farmacie comunitară
+3589333;remdesivir
+1205786;dezinfectant
+1431107;pneumologie
+3574880;studiu clinic intervențional adaptativ
+3589279;depistare prin simptome
+1353062;ecran de protecție facială
+1353062;scut facial
+3589259;vizor de protecție
+3589208;cercetare-dezvoltare farmaceutică
+3589208;dezvoltare a unui medicament
+3589299;Sistemul de sprijin pentru managementul clinic al COVID-19
+3589299;COVID-19 CMSS
+159118;cercetare farmaceutică
+1109433;depistare medicală
+1109433;screening
+3589278;scanare termică
+1076385;sistem extracorporal de susținere a vieții
+1076385;ECLS
+1076385;oxigenare cu membrană extracorporală
+1076385;ECMO
+895199;măsuri de limitare a răspândirii bolilor transmisibile
+895199;măsuri de limitare a răspândirii
+3589151;cumpărături de panică
+1687443;mănușă sterilă
+1687443;mănușă de unică utilizare
+1496943;ventilator mecanic
+1496943;aparat pentru respirație artificială
+1496943;ventilator pulmonar
+3589424;echipament individual de protecție
+1353023;echipament personal de protecție
+1353023;PPE
+3517450;regulament <i>de minimis</i>
+3589132;rezervă de produse farmaceutice și consumabile medicale
+1731664;aplatizarea unei curbe
+3589177;dezinfectant pentru mâini
+3589177;gel hidroalcoolic
+928908;personal care asigură prima intervenție
+3589146;protecție oculară
+1894809;clorochină
+1520862;mască de protecție
+1520862;mască chirurgicală
+1520862;mască medicală
+1520862;mască de față
+1530177;interstițiu
+1530177;spațiu interstițial
+210096;șoc septic
+3589184;persoană care este contact și prezintă potențial risc mare de infecție
+3589730;metode euristice în epidemiologie
+1142205;spațiu mort anatomic
+1575131;conferință telefonică
+1758301;audioconferință
+3590520;acord preliminar de achiziție
+3590520;APA
+3589573;funcționalitate de depistare a contacților și de avertizare
+3589363;Cadru temporar pentru măsuri de ajutor de stat
+3589363;Cadru temporar pentru măsuri de ajutor de stat de sprijinire a economiei în contextul actualei epidemii de COVID-19
+3589363;Cadru temporar privind ajutoarele de stat
+3509896;urmărire a contacților
+3509896;identificare și supraveghere epidemiologică a contacților
+3509896;depistare a contacților
+3590061;Grupul de informare privind COVID-19 – Afaceri interne
+3589919;produs necesar în situații de criză
+43785;ICSR
+43785;raport de siguranță individual
+3589144;agent terapeutic pentru investigație clinică
+3589895;Instrumentul de sprijin pentru solvabilitate
+3589895;Instrumentul pentru solvabilitate
+3589773;procedura de recunoastere mutuală cu utilizare repetată
+3589786;procedură simplificată
+3535665;procedura recunoașterii reciproce
+3535665;procedura de recunoaștere mutuală
+3589550;Foaia de parcurs comună pentru redresare
+3589550;Foaia de parcurs pentru redresare
+3591530;eveniment cu risc foarte mare de răspândire a unui virus
+35058;SMR
+35058;stat membru de referință
+3589328;Instrumentul SURE
+3589328;SURE
+3589328;Instrumentul european de sprijin temporar pentru atenuarea riscurilor de șomaj într-o situație de urgență
+1085744;grup de risc
+1085744;grup vulnerabil
+3578814;clauză privind evenimentele neobișnuite
+3589353;autoizolare
+1085413;carantină
+1528591;imunizare
+1267193;medic ATI
+1267193;medic anestezie și terapie intensivă
+3589571;mască de protecție nemedicală
+3589571;mască comunitară
+3589571;mască de față textilă
+3589571;mască nemedicală
+3568792;Instrumentul pentru sprijin de urgență în cadrul Uniunii
+3568792;ESI
+3568792;Instrumentul de sprijin de urgență
+3568792;Instrumentul dedicat sprijinului de urgență pe teritoriul Uniunii
+3582137;GPMB
+3582137;Consiliul mondial de monitorizare a pregătirii
+3574459;Sistemul european de reasigurare pentru indemnizațiile de șomaj
+2234433;sistem de alertă precoce și răspuns rapid privind prevenirea și controlul bolilor transmisibile
+2234433;sistem de alertă precoce și răspuns rapid
+2234433;SAPR
+3589565;personal care ocupă funcții esențiale
+3589565;lucrători care asigură servicii esențiale
+3589675;măsură de recapitalizare în contextul COVID-19
+3590208;tehnologie ARNm
+3589281;măsură de reducere a riscului de răspândire a unei boli în comunitate
+3589068;echipa europeană de răspuns la coronavirus
+3589068;echipa europeană de răspuns la epidemia de COVID-19
+1075132;ventilație pulmonară
+1075132;ventilație
+3589161;pneumonie bilaterală interstițială
+3589442;medicament alternativ
+1569118;rata mortalităţii pe grupe de vârstă
+2228541;IPCR
+2228541;Mecanismele UE pentru coordonarea în situații de urgență și de criză
+2228541;mecanism integrat al UE pentru un răspuns politic la crize
+2228541;CCA
+3589154;acord privind achizițiile publice comune
+3589154;acord privind achizițiile publice comune de contramăsuri medicale
+3589653;baza de date CCP a UE
+3589652;Alianța Europeană în domeniul Sângelui
+3589751;Parteneriatul pentru acoperirea universală cu servicii de sănătate
+3589574;aplicație de depistare a contacților și de avertizare
+3589574;aplicație de depistare și de avertizare a contacților pacienților confirmați
+3589721;instalație de tratare specială a aerului pentru mediul intraspitalicesc
+1109077;vector neanimat
+3589657;donator de plasmă convalescentă
+1186649;citokine
+3589702;plan de pregătire pentru situații de criză
+3589702;plan de pregătire pentru crize
+3589725;Răspunsul mondial la criza provocată de coronavirus
+3589448;Comitetul de coordonare în caz de criză
+3590935;platforma PEPP-PT
+3591261;COVID de lungă durată
+3591261;sindrom post-COVID
+3591220;multilateralism vaccinal
+3535657;titularul autorizației de introducere pe piață
+2251196;studiu preclinic
+3590834;test PCR
+3589934;deșert medical
+3590848;instrument pentru vaccinuri
+3591262;situație epidemiologică
+3538531;rezervor de infecție
+1084787;medicină de catastrofă
+3591096;antigen S (spike)
+3590374;personal medical suplimentar
+1570219;curbă exponențială
+1440698;cheie criptografică
+3591604;inițiativa EIOS
+3591604;proiectul „Informații Epidemiologice din Surse Deschise”
+3589875;Obiectivul nostru mondial: Uniți pentru viitor
+1099817;tratament terapeutic
+3591194;Programul de solidaritate al Parteneriatului estic
+3591013;Consiliul de facilitare la nivel înalt
+3591013;Consiliul de facilitare al ACT-A
+3590016;călător cu rol esențial
+3589475;grant pentru transport
+202135;virus ARN
+3562747;transmitere comunitară
+3590689;valinomicină
+3589985;instrument de observare a Pământului cu acțiune rapidă în contextul pandemiei de COVID-19
+3590617;superdonator
+3590715;deces
+1395289;perioadă de latență
+1352942;gazdă intermediară
+1450107;curbă de creştere
+3590635;volum respirator
+1141482;profilaxie postexpunere
+1528666;imunopatologie
+1544146;spută
+1544146;expectorație
+3590371;piață de animale vii
+1688309;creştere exponenţială
+1530494;intubare endotraheală
+1570899;medie mobilă
+3590704;depistare primară
+3590630;ritm respirator
+1142212;ventilație alveolară
+1684678;inspirație
+1548910;spațiu mort
+1100965;sindrom pseudogripal
+1645404;aparat respirator
+1430717;evoluţia bolii
+1546287;tratament simptomatic
+3590631;ventilație mecanică
+930132;spital de campanie
+3590643;flacon cu doză unică
+1017725;bypass cardiopulmonar
+1615873;boală respiratorie cronică
+1219439;mască de gaze
+3590692;imunopatogeneză
+3590626;ventilație invazivă
+1109191;perioadă lantentă
+1106366;concentrat eritrocitar
+3508537;virus pandemic
+197247;contagiozitate
+1568147;rată de ocupare a paturilor
+1884191;raloxifen
+3590757;durere musculară
+1911478;imunitate sterilizantă
+3590714;focar secundar
+1350494;căi respiratorii superioare
+1350494;căi aeriene superioare
+1142094;capacitate reziduală funcţională
+1547737;boală virală
+2244070;producător
+154085;tehnica amplificării acidului nucleic
+154085;NAT
+1142010;volum curent
+1529207;infecție ușoară
+3590633;ventilație cu frecvență înaltă
+3590155;zbor medical
+3590705;depistare secundară
+66136;modulator selectiv al receptorilor estrogenici
+3590084;instrumentul care ilustrează solidaritatea europeană
+1427301;respirație
+133592;sindrom de oboseală cronică
+1684603;estrogen
+2233442;angajament prealabil de achiziție pentru vaccinuri
+3576948;prelevare de probe
+1488464;expirație
+3590753;simptom ușor
+261404;infecție primară
+1726002;osteoporoză
+3517030;boală subiacentă
+3590639;ventilație neinvazivă
+3590191;portal federativ
+3590190;risc de expunere
+1542656;infecție secundară
+3590195;PEEP
+3590195;presiune pozitivă la sfârşitul expirului
+1685421;reinfecție
+1685421;reinfectare
+3589744;algoritm de numărare a persoanelor pentru camerele de supraveghere video
+3589743;flux de aer vertical
+3589749;strategie de revenire la situația de normalitate
+3589749;strategie de ieșire din criza COVID-19
+924561;mecanismul de protecție civilă al Uniunii
+924561;UCPM
+924561;mecanismul comunitar de protecție civilă
+924561;mecanismul de protecție civilă al UE
+924561;EUCPM
+1196217;lanț de transmitere
+1915095;criză sanitară
+1550228;lucrător sezonier
+1430939;produse medicale
+1430939;echipamente medicale
+3589477;aplicație de depistare a contacților
+3589401;semi-mască filtrantă împotriva particulelor, de unică folosință
+3590020;Asistența de redresare pentru coeziune și teritoriile Europei
+3590020;REACT-EU
+3590022;reparare a daunelor provocate de criză
+3589945;echipă de urgență sanitară a Uniunii
+3589894;Mecanism de investiții strategice
+3589967;redresare ecologică
+3589967;redresare verde
+3589902;redresare în „V”
+3589900;redresare în U
+3590067;document de informare și sinteză
+3589501;fond de garantare paneuropean
+3589606;moratoriu privat
+3589606;moratoriu non-legislativ
+3589758;voucher de patronaj
+3589476;supraveghere participativă
+3589754;recrudescență
+3555481;Comitetul Organismelor Europene de Supraveghere a Auditului
+3555481;COESA
+3589509;mecanism complet de examinare
+3588677;coordonator european al răspunsului la situații de urgență
+3589763;marjă de manevră
+3589508;mecanism de examinare a investițiilor străine directe
+3589508;mecanism de examinare a ISD
+3589430;medicament necesar resuscitării
+3589441;nutriție clinică
+3589523;activ strategic
+3589523;activ critic
+3589612;creștere semnificativă a riscului de credit
+3589608;moratoriu statutar
+3589608;moratoriu public
+3589608;moratoriu legislativ
+3589613;probabilitate de nerambursare pe durata de viață
+302729;medicament esențial
+3589428;utilizare conform RCP
+3589428;utilizare „on-label”
+3589429;oxigen medical
+3589494;Facilitatea de finanțare InnovFin – Boli infecțioase
+3589492;Mecanismul de garantare a împrumuturilor
+3589492;LGF
+3589492;COSME LGF
+3589492;Mecanismul de garantare a împrumuturilor din cadrul COSME
+3550505;EFG
+3550505;Mecanismul de capitaluri proprii pentru creștere
+3550505;COSME EFG
+3550505;Mecanismul de capitaluri proprii pentru creștere din cadrul programului COSME
+36647;medic de familie din sistemul de supraveghere tip santinelă
+36647;medic-santinelă
+197204;caz asimptomatic
+197204;purtător asimptomatic
+3588240;soluție parenterală de volum mare
+3589426;Rețeaua SPOC
+3589426;Rețeaua de puncte unice de contact
+3589371;operațiune de sprijinire a capacităților de reacție în situații de criză
+1867226;test de diagnosticare rapidă la locul acordării asistenței medicale
+3582231;improbabilitate de plată
+3589365;criză în domeniul sănătății publice
+3589356;zonă UE+
+3589339;Inițiativa UE pentru solidaritate în domeniul sănătății
+3589359;echipă de intervenție în caz de urgențe medicale
+3589359;echipă volantă de medici și asistenți
+3589327;strategie de ieșire din criza provocată de COVID-19
+3589336;studiu clinic intervențional multicentric, adaptativ și randomizat
+3589134;caz de import
+3589152;rezervă rescEU
+3589209;clauză derogatorie generală
+907309;măsură cu caracter excepțional
+907309;măsură unică
+907309;măsură fiscal-bugetară cu caracter excepțional
+3581945;reziliența sistemului de sănătate
+3592067;sistem de interoperabilitate
+755503;predare la distanță
+755503;predare on-line
+3589432;semi-mască filtrantă împotriva particulelor reutilizabilă
+3589557;caz secundar
+951803;materie primă
+3510294;thermocycler
+3510231;fragment de ADN
+3589438;izolare institutită de autorități
+3589544;înmugurire
+3589546;excreție virală
+3589547;glicoproteină de membrană
+1049355;proteină a nucleocapsidei
+3589462;fond de redresare
+3589462;fond european de redresare
+3589539;capacitate executivă
+3588486;infecția cu virusul SARS-CoV-2
+3588486;COVID-19
+3588486;boala provocată de coronavirusul SARS-CoV-2
+1493465;dezinfecție
+3567621;colaborare la nivel mondial în materie de cercetare pentru pregătire în eventualitatea apariției unor boli infecțioase
+3567621;GloPID-R
+3517429;control al bolilor
+3589427;sistemul de puncte i-SPOC
+1497528;izolare
+1513058;dispnee
+1431879;seroconversie
+1430851;spitalizare
+3589320;stopare a unei epidemii
+3589320;suprimare a răspândirii unui virus
+3589150;amânare la plată a creditelor
+1108941;limitare a răspândirii bolilor transmisibile
+1108941;limitare a răspândirii
+3547033;transmisibilitate
+3589451;punct de triaj
+389626;coronavirusul sindromului respirator acut sever
+389626;coronavirusul SARS
+3589311;Grupul de informare privind coronavirusul și COVID-19 - Frontiere
+1109120;imunitate colectivă
+3589554;aspirat nazofaringian
+791197;Programul de reconstrucție europeană
+791197;Planul Marshall
+791197;Programul de redresare europeană
+1109031;epidemie
+1683867;intubație
+1073734;farmacocinetică
+1085260;morbiditate
+1085260;rata morbidității
+1173416;investiție a autorităților publice
+1173416;investiție publică
+1068880;screening al populației
+1450623;septicemie
+1450623;sepsis
+3589454;dispozitiv pentru autotestare utilizat în cadrul aceleiași unități medicale
+3589500;date de cercetare cu acces liber
+3589526;Săptămâna Mondială a Imunizării
+3589499;cercetare preclinică
+3589160;pneumonie acută interstițială
+3504411;gripă sezonieră
+1073785;epitop
+1516256;oboseală
+2222794;povara bolii
+3509459;cale de transmitere
+1685409;coinfecție
+1506050;catecolamină
+3543248;α1-adrenoreceptor
+3543248;receptor alfa-1 adrenergic
+3569677;programul de achiziționare de obligațiuni emise de sectorul corporativ
+3569677;CSPP
+3589188;program de achiziții de urgență pandemică
+3589188;program de achiziționare în regim de urgență în caz de pandemie
+3589188;PEPP
+877731;învățământ deschis
+1173417;investiție a sectorului privat
+1173417;investiție privată
+3517430;control al infecțiilor
+3581788;întreprindere viabilă
+766986;lucrător transfrontalier
+766986;navetist transfrontalier
+1676520;rută de aprovizionare
+1676520;cale de aprovizionare
+873471;avantaj al primului venit
+3589487;combinezon de protecție
+1588948;stat suveran
+1464965;rating triplu-A
+1464965;AAA
+1464965;rating de credit triplu-A
+1464965;rating AAA
+1220965;lanț valoric
+3589591;materiale de testare
+3589517;gest-barieră
+3589517;măsură-barieră
+3589517;măsură de protecție individuală
+927305;utilizare „off-label”
+927305;utilizare în afara indicațiilor terapeutice
+1569120;mortalitate anormală
+1267192;ATI
+1267192;anestezie și terapie intensivă
+1108915;epidemie din sursă comună
+2146586;medicament pentru investigație clinică
+1905054;sindrom respirator acut sever
+1905054;SARS
+1221271;studiu clinic intervențional randomizat
+1221271;trial clinic randomizat
+3578624;MERS
+3578624;sindromul respirator din Orientul Mijlociu
+1430889;terapie intensivă
+3589258;creanță suplimentară de natura creditelor
+3550291;navetist frontalier
+1186701;medicament antiviral
+1450729;virulență
+3535730;clauză de caducitate
+3504409;caz probabil

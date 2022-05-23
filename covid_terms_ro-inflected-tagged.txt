@@ -1,0 +1,2128 @@
+virus/Ncms-n ARN încapsulat
+viruși/Ncmp-n ARN încapsulați
+virusuri/Ncfp-n ARN încapsulate
+virusului/Ncmsoy ARN încapsulat
+virușilor/Ncmpoy ARN încapsulați
+virusurilor/Ncfpoy ARN încapsulate
+virusul/Ncmsry ARN încapsulat
+virușii/Ncmpry ARN încapsulați
+virusurile/Ncfpry ARN încapsulate
+
+vaccin/Ncms-n recombinat
+vaccinuri/Ncfp-n recombinate
+vaccinului/Ncmsoy recombinat
+vaccinurilor/Ncfpoy recombinate
+vaccinul/Ncmsry recombinat
+vaccinurile/Ncfpry recombinate
+
+studiu/Ncms-n observațional
+studii/Ncfp-n observaționale
+studiului/Ncmsoy observațional
+studiilor/Ncfpoy observaționale
+studiul/Ncmsry observațional
+studiile/Ncfpry observaționale
+
+vaccin/Ncms-n subunitar
+vaccinuri/Ncfp-n subunitare
+vaccinului/Ncmsoy subunitar
+vaccinurilor/Ncfpoy subunitare
+vaccinul/Ncmsry subunitar
+vaccinurile/Ncfpry subunitare
+
+mecanism/Ncms-n pentru accesul mondial la vaccinuri împotriva COVID-19
+mecanisme/Ncfp-n pentru accesul mondial la vaccinuri împotriva COVID-19
+mecanismului/Ncmsoy pentru accesul mondial la vaccinuri împotriva COVID-19
+mecanismelor/Ncfpoy pentru accesul mondial la vaccinuri împotriva COVID-19
+mecanismul/Ncmsry pentru accesul mondial la vaccinuri împotriva COVID-19
+mecanismele/Ncfpry pentru accesul mondial la vaccinuri împotriva COVID-19
+
+mecanism/Ncms-n COVAX
+mecanisme/Ncfp-n COVAX
+mecanismului/Ncmsoy COVAX
+mecanismelor/Ncfpoy COVAX
+mecanismul/Ncmsry COVAX
+mecanismele/Ncfpry COVAX
+
+certificat/Ncms-n de vaccinare
+certificate/Ncfp-n de vaccinare
+certificatului/Ncmsoy de vaccinare
+certificatelor/Ncfpoy de vaccinare
+certificatul/Ncmsry de vaccinare
+certificatele/Ncfpry de vaccinare
+
+certificat/Ncms-n de vaccinare
+certificate/Ncfp-n de vaccinare
+certificatului/Ncmsoy de vaccinare
+certificatelor/Ncfpoy de vaccinare
+certificatul/Ncmsry de vaccinare
+certificatele/Ncfpry de vaccinare
+
+vaccin/Ncms-n de tip ARNm
+vaccinuri/Ncfp-n de tip ARNm
+vaccinului/Ncmsoy de tip ARNm
+vaccinurilor/Ncfpoy de tip ARNm
+vaccinul/Ncmsry de tip ARNm
+vaccinurile/Ncfpry de tip ARNm
+
+suspendare/Ncfsrn temporară a contractului individual de muncă
+suspendării/Ncfsoy temporare a contractului individual de muncă
+suspendarea/Ncfsry temporară a contractului individual de muncă
+
+timp/Ncms-n de mașină pentru extracția ARN
+timpului/Ncmsoy de mașină pentru extracția ARN
+timpul/Ncmsry de mașină pentru extracția ARN
+
+timp/Ncms-n de mașină al echipamentului PCR
+timpului/Ncmsoy de mașină al echipamentului PCR
+timpul/Ncmsry de mașină al echipamentului PCR
+
+proteină/Ncfsrn S100
+proteinei/Ncfsoy S100
+proteina/Ncfsry S100
+
+reproductibilitate/Ncfsrn
+reproductibilități/Ncfson
+reproductibilității/Ncfsoy
+reproductibilitatea/Ncfsry
+
+vaccin/Ncms-n cu vector viral
+vaccinuri/Ncfp-n cu vector viral
+vaccinului/Ncmsoy cu vector viral
+vaccinurilor/Ncfpoy cu vector viral
+vaccinul/Ncmsry cu vector viral
+vaccinurile/Ncfpry cu vector viral
+
+flux/Ncms-n comercial
+fluxuri/Ncfp-n comerciale
+fluxului/Ncmsoy comercial
+fluxurilor/Ncfpoy comerciale
+fluxul/Ncmsry comercial
+fluxurile/Ncfpry comerciale
+
+plan/Ncms-n de răspuns umanitar la nivel mondial
+planuri/Ncfp-n de răspuns umanitar la nivel mondial
+planului/Ncmsoy de răspuns umanitar la nivel mondial
+planurilor/Ncfpoy de răspuns umanitar la nivel mondial
+planul/Ncmsry de răspuns umanitar la nivel mondial
+planurile/Ncfpry de răspuns umanitar la nivel mondial
+
+transport/Ncms-n nemotorizat
+transporturi/Ncfp-n nemotorizate
+transportului/Ncmsoy nemotorizat
+transporturilor/Ncfpoy nemotorizate
+transportul/Ncmsry nemotorizat
+transporturile/Ncfpry nemotorizate
+
+viremie/Ncfsrn
+viremii/Ncfson
+viremiei/Ncfsoy
+viremia/Ncfsry
+
+ocrotire/Ncfsrn a sănătății
+ocrotiri/Ncfson a sănătății
+ocrotirii/Ncfsoy sănătății
+ocrotirea/Ncfsry sănătății
+
+enzima/Ncfsry 2 de conversie a angiotensinei
+enzimei/Ncfsoy 2 de conversie a angiotensinei
+
+saturaţie în oxigen/Ncfp-n a sângelui arterial
+saturații/Ncfson în oxigen a sângelui arterial
+saturației/Ncfsoy în oxigen a sângelui arterial
+saturația/Ncfsry în oxigen a sângelui arterial
+
+vaccin/Ncms-n cu acid nucleic
+vaccinuri/Ncfp-n cu acid nucleic
+vaccinului/Ncmsoy cu acid nucleic
+vaccinurilor/Ncfpoy cu acid nucleic
+vaccinul/Ncmsry cu acid nucleic
+vaccinurile/Ncfpry cu acid nucleic
+
+ARDS asociat/Ncms-n COVID-19
+
+sindrom/Ncms-n de detresă respiratorie acută asociat COVID-19
+sindromului/Ncmsoy de detresă respiratorie acută asociat COVID-19
+sindromul/Ncmsry de detresă respiratorie acută asociat COVID-19
+
+recipient/Ncms-n multidoză
+recipiente/Ncfp-n multidoză
+recipientului/Ncmsoy multidoză
+recipientelor/Ncfpoy multidoză
+recipientul/Ncmsry multidoză
+recipientele/Ncfpry multidoză
+
+flacon/Ncms-n multidoză
+flacoane/Ncfp-n multidoză
+flaconului/Ncmsoy multidoză
+flacoanelor/Ncfpoy multidoză
+flaconul/Ncmsry multidoză
+flacoanele/Ncfpry multidoză
+
+sindrom/Ncms-n de detresă respiratorie a adultului
+sindromului/Ncmsoy de detresă respiratorie a adultului
+sindromul/Ncmsry de detresă respiratorie a adultului
+
+sindrom/Ncms-n de detresă respiratorie acută
+sindromului/Ncmsoy de detresă respiratorie acută
+sindromul/Ncmsry de detresă respiratorie acută
+
+accelerator/Ncms-n ACT
+acceleratorului/Ncmsoy ACT
+acceleratorul/Ncmsry ACT
+
+accelerator/Ncms-n al accesului la instrumentele de combatere a COVID-19
+acceleratorului/Ncmsoy accesului la instrumentele de combatere a COVID-19
+acceleratorul/Ncmsry accesului la instrumentele de combatere a COVID-19
+
+aerosol/Ncms-n
+aerosoli/Ncmp-n
+aerosolului/Ncmsoy
+aerosolilor/Ncmpoy
+aerosolul/Ncmsry
+aerosolii/Ncmpry
+
+plan/Ncms-n național de redresare și reziliență
+planului/Ncmsoy național de redresare și reziliență
+planul/Ncmsry național de redresare și reziliență
+
+Mecanism/Ncms-n de redresare și reziliență
+Mecanismului/Ncmsoy de redresare și reziliență
+Mecanismul/Ncmsry de redresare și reziliență
+
+caz/Ncms-n paucisimptomatic
+cazuri/Ncfp-n paucisimptomatice
+cazului/Ncmsoy paucisimptomatic
+cazurilor/Ncfpoy paucisimptomatice
+cazul/Ncmsry paucisimptomatic
+cazurile/Ncfpry paucisimptomatice
+
+Centru/Ncms-n de coordonare a răspunsului la situații de urgență
+Centrului/Ncmsoy de coordonare a răspunsului la situații de urgență
+Centrul/Ncmsry de coordonare a răspunsului la situații de urgență
+
+Comitet/Ncms-n pentru securitate sanitară
+Comitetului/Ncmsoy pentru securitate sanitară
+Comitetul/Ncmsry pentru securitate sanitară
+
+Next Generation EU/Ncms-n
+
+Instrument/Ncms-n european de redresare
+Instrumentului/Ncmsoy european de redresare
+Instrumentul/Ncmsry european de redresare
+
+Instrument/Ncms-n de redresare al Uniunii Europene
+Instrumentului/Ncmsoy de redresare al Uniunii Europene
+Instrumentul/Ncmsry de redresare al Uniunii Europene
+
+Grup/Ncms-n consultativ strategic de experţi în imunizare
+Grupului/Ncmsoy consultativ strategic de experţi în imunizare
+Grupul/Ncmsry consultativ strategic de experţi în imunizare
+
+Fond/Ncms-n de răspuns solidar la pandemia de COVID-19
+Fondului/Ncmsoy de răspuns solidar la pandemia de COVID-19
+Fondul/Ncmsry de răspuns solidar la pandemia de COVID-19
+
+aspirat/Ncms-n traheal profund
+aspiratului/Ncmsoy traheal profund
+aspiratul/Ncmsry traheal profund
+
+aparat/Ncms-n de protecție respiratorie
+aparate/Ncfp-n de protecție respiratorie
+aparatului/Ncmsoy de protecție respiratorie
+aparatelor/Ncfpoy de protecție respiratorie
+aparatul/Ncmsry de protecție respiratorie
+aparatele/Ncfpry de protecție respiratorie
+
+semi-mască filtrantă împotriva particulelor/Ncfpoy
+semi-măști filtrante împotriva particulelor/Ncfpoy
+semi-măștii filtrante împotriva particulelor/Ncfpoy
+semi-măștilor filtrante împotriva particulelor/Ncfpoy
+semi-masca filtrantă împotriva particulelor/Ncfpoy
+semi-măștile filtrante împotriva particulelor/Ncfpoy
+
+focar/Ncms-n
+focare/Ncfp-n
+focarului/Ncmsoy
+focarelor/Ncfpoy
+focarul/Ncmsry
+focarele/Ncfpry
+
+urgenţă de sănătate/Ncfsrn publică de importanţă internaţională
+urgenţe de sănătate/Ncfsrn publică de importanţă internaţională
+urgenţei de sănătate/Ncfsrn publică de importanţă internaţională
+urgenţelor de sănătate/Ncfsrn publică de importanţă internaţională
+urgenţa de sănătate/Ncfsrn publică de importanţă internaţională
+urgenţele de sănătate/Ncfsrn publică de importanţă internaţională
+
+verificarea/Ncfsry conformității datelor din formularul de raportare cu datele sursă
+
+Centru/Ncms-n european pentru medicina catastrofelor
+Centrului/Ncmsoy european pentru medicina catastrofelor
+Centrul/Ncmsry european pentru medicina catastrofelor
+
+șomaj/Ncms-n parțial
+șomajului/Ncmsoy parțial
+șomajul/Ncmsry parțial
+
+lucrător/Ncms-n frontalier
+lucrători/Ncmp-n frontalieri
+lucrătorului/Ncmsoy frontalier
+lucrătorilor/Ncmpoy frontalieri
+lucrătorul/Ncmsry frontalier
+lucrătorii/Ncmpry frontalieri
+
+vaccin/Ncms-n preparat prin tehnici ADN
+vaccinuri/Ncfp-n preparate prin tehnici ADN
+vaccinului/Ncmsoy preparat prin tehnici ADN
+vaccinurilor/Ncfpoy preparate prin tehnici ADN
+vaccinul/Ncmsry preparat prin tehnici ADN
+vaccinurile/Ncfpry preparate prin tehnici ADN
+
+imunitate/Ncfsrn dobândită
+imunități/Ncfson dobândite
+imunității/Ncfsoy dobândite
+imunitatea/Ncfsry dobândită
+
+sindrom/Ncms-n Kawasaki
+sindromului/Ncmsoy Kawasaki
+sindromul/Ncmsry Kawasaki
+
+boală/Ncfsrn Kawasaki
+bolii/Ncfsoy Kawasaki
+boala/Ncfsry Kawasaki
+
+sindrom/Ncms-n inflamator multisistemic potenţial asociat COVID-19
+sindromului/Ncmsoy inflamator multisistemic potenţial asociat COVID-19
+sindromul/Ncmsry inflamator multisistemic potenţial asociat COVID-19
+
+sindrom/Ncms-n inflamator Kawasaki-like
+sindromului/Ncmsoy inflamator Kawasaki-like
+sindromul/Ncmsry inflamator Kawasaki-like
+
+Grup/Ncms-n de coordonare privind deficitele de medicamente și siguranța acestora
+Grupului/Ncmsoy de coordonare privind deficitele de medicamente și siguranța acestora
+Grupul/Ncmsry de coordonare privind deficitele de medicamente și siguranța acestora
+
+prag/Ncms-n epidemic
+pragului/Ncmsoy epidemic
+pragul/Ncmsry epidemic
+
+sindrom/Ncms-n de oboseală cronică post COVID-19
+sindromului/Ncmsoy de oboseală cronică post COVID-19
+sindromul/Ncmsry de oboseală cronică post COVID-19
+
+prospect/Ncms-n UE pentru redresare
+prospectului/Ncmsoy UE pentru redresare
+prospectul/Ncmsry UE pentru redresare
+
+videoconferință/Ncfsrn
+videoconferințe/Ncfson
+videoconferinței/Ncfsoy
+videoconferințelor/Ncfpoy
+videoconferința/Ncfsry
+videoconferințele/Ncfpry
+
+nucleu/Ncms-n de picătură
+nuclee/Ncfp-n de picătură
+nucleului/Ncmsoy de picătură
+nucleelor/Ncfpoy de picătură
+nucleul/Ncmsry de picătură
+nucleele/Ncfpry de picătură
+
+plămân/Ncms-n
+plămâni/Ncmp-n
+plămânului/Ncmsoy
+plămânilor/Ncmpoy
+plămânul/Ncmsry
+plămânii/Ncmpry
+
+server/Ncms-n european de acces pentru interoperabilitate
+servere/Ncfp-n europene de acces pentru interoperabilitate
+serverului/Ncmsoy european de acces pentru interoperabilitate
+serverelor/Ncfpoy europene de acces pentru interoperabilitate
+serverul/Ncmsry european de acces pentru interoperabilitate
+serverele/Ncfpry europene de acces pentru interoperabilitate
+
+Grup/Ncms-n operativ CRII
+Grupului/Ncmsoy operativ CRII
+Grupul/Ncmsry operativ CRII
+
+Grup/Ncms-n operativ aferent Inițiativei pentru investiții în răspunsul la coronavirus
+Grupului/Ncmsoy operativ aferent Inițiativei pentru investiții în răspunsul la coronavirus
+Grupul/Ncmsry operativ aferent Inițiativei pentru investiții în răspunsul la coronavirus
+
+virus/Ncms-n modificat genetic
+viruși/Ncmp-n modificați genetic
+virusuri/Ncfp-n modificate genetic
+virusului/Ncmsoy modificat genetic
+virușilor/Ncmpoy modificați genetic
+virusurilor/Ncfpoy modificate genetic
+virusul/Ncmsry modificat genetic
+virușii/Ncmpry modificați genetic
+virusurile/Ncfpry modificate genetic
+
+culoar/Ncms-n verde
+culoare/Ncfp-n verzi
+culoarului/Ncmsoy verde
+culoarelor/Ncfpoy verzi
+culoarul/Ncmsry verde
+culoarele/Ncfpry verzi
+
+punct/Ncms-n de trecere a frontierei pentru culoarele verzi
+puncte/Ncfp-n de trecere a frontierei pentru culoarele verzi
+punctului/Ncmsoy de trecere a frontierei pentru culoarele verzi
+punctelor/Ncfpoy de trecere a frontierei pentru culoarele verzi
+punctul/Ncmsry de trecere a frontierei pentru culoarele verzi
+punctele/Ncfpry de trecere a frontierei pentru culoarele verzi
+
+program/Ncms-n „UE pentru sănătate”
+programului/Ncmsoy „UE pentru sănătate”
+programul/Ncmsry „UE pentru sănătate”
+
+program/Ncms-n de acțiune a Uniunii în domeniul sănătății
+programului/Ncmsoy de acțiune a Uniunii în domeniul sănătății
+programul/Ncmsry de acțiune a Uniunii în domeniul sănătății
+
+set/Ncms-n de instrumente al UE
+seturi/Ncfp-n de instrumente ale UE
+setului/Ncmsoy de instrumente al UE
+seturilor/Ncfpoy de instrumente ale UE
+setul/Ncmsry de instrumente al UE
+seturile/Ncfpry de instrumente ale UE
+
+focar/Ncms-n de COVID-19
+focare/Ncfp-n de COVID-19
+focarului/Ncmsoy de COVID-19
+focarelor/Ncfpoy de COVID-19
+focarul/Ncmsry de COVID-19
+focarele/Ncfpry de COVID-19
+
+Grup/Ncms-n operativ pentru redresare și reziliență
+Grupului/Ncmsoy operativ pentru redresare și reziliență
+Grupul/Ncmsry operativ pentru redresare și reziliență
+
+sistem/Ncms-n GAEN
+sistemului/Ncmsoy GAEN
+sistemul/Ncmsry GAEN
+
+coronavirus al sindromului/Ncmsoy respirator acut sever 2
+coronavirusului sindromului/Ncmsoy respirator acut sever 2
+coronavirusul sindromului/Ncmsoy respirator acut sever 2
+
+coronavirus 2 care/Ncfp-n cauzează sindromul respirator acut sever
+coronavirusului 2 care/Ncfp-n cauzează sindromul respirator acut sever
+coronavirusul 2 care/Ncfp-n cauzează sindromul respirator acut sever
+
+virus/Ncms-n care provoacă COVID-19
+viruși/Ncmp-n care provoacă COVID-19
+virusuri/Ncfp-n care provoacă COVID-19
+virusului/Ncmsoy care provoacă COVID-19
+virușilor/Ncmpoy care provoacă COVID-19
+virusurilor/Ncfpoy care provoacă COVID-19
+virusul/Ncmsry care provoacă COVID-19
+virușii/Ncmpry care provoacă COVID-19
+virusurile/Ncfpry care provoacă COVID-19
+
+nou coronavirus din China/Ncfsry
+noului coronavirus din China/Ncfsry
+noul coronavirus din China/Ncfsry
+
+interferon/Ncms-n tip III
+interferonului/Ncmsoy tip III
+interferonul/Ncmsry tip III
+
+Plan/Ncms-n strategic de pregătire și răspuns
+Planului/Ncmsoy strategic de pregătire și răspuns
+Planul/Ncmsry strategic de pregătire și răspuns
+
+Plan/Ncms-n de redresare al UE
+Planului/Ncmsoy de redresare al UE
+Planul/Ncmsry de redresare al UE
+
+plan/Ncms-n de redresare pentru Europa
+planului/Ncmsoy de redresare pentru Europa
+planul/Ncmsry de redresare pentru Europa
+
+plan/Ncms-n de redresare
+planului/Ncmsoy de redresare
+planul/Ncmsry de redresare
+
+compartiment/Ncms-n de terapie intensivă
+compartimente/Ncfp-n de terapie intensivă
+compartimentului/Ncmsoy de terapie intensivă
+compartimentelor/Ncfpoy de terapie intensivă
+compartimentul/Ncmsry de terapie intensivă
+compartimentele/Ncfpry de terapie intensivă
+
+formular/Ncms-n de localizare a pasagerilor
+formulare/Ncfp-n de localizare a pasagerilor
+formularului/Ncmsoy de localizare a pasagerilor
+formularelor/Ncfpoy de localizare a pasagerilor
+formularul/Ncmsry de localizare a pasagerilor
+formularele/Ncfpry de localizare a pasagerilor
+
+studiu/Ncms-n controlat
+studii/Ncfp-n controlate
+studiului/Ncmsoy controlat
+studiilor/Ncfpoy controlate
+studiul/Ncmsry controlat
+studiile/Ncfpry controlate
+
+studiu/Ncms-n clinic controlat
+studii/Ncfp-n clinice controlate
+studiului/Ncmsoy clinic controlat
+studiilor/Ncfpoy clinice controlate
+studiul/Ncmsry clinic controlat
+studiile/Ncfpry clinice controlate
+
+coronavirus al sindromului/Ncmsoy respirator din Orientul Mijlociu
+coronavirusului sindromului/Ncmsoy respirator din Orientul Mijlociu
+coronavirusul sindromului/Ncmsoy respirator din Orientul Mijlociu
+
+test/Ncms-n de provocare
+teste/Ncfp-n de provocare
+testului/Ncmsoy de provocare
+testelor/Ncfpoy de provocare
+testul/Ncmsry de provocare
+testele/Ncfpry de provocare
+
+domeniu/Ncms-n de legare al receptorului
+domeniului/Ncmsoy de legare al receptorului
+domeniul/Ncmsry de legare al receptorului
+
+sistem/Ncms-n imunitar
+sisteme/Ncfp-n imunitare
+sistemului/Ncmsoy imunitar
+sistemelor/Ncfpoy imunitare
+sistemul/Ncmsry imunitar
+sistemele/Ncfpry imunitare
+
+domeniu/Ncms-n al proteinei
+domeniului/Ncmsoy proteinei
+domeniul/Ncmsry proteinei
+
+derivat/Ncms-n din plasmă
+derivați/Ncmp-n din plasmă
+derivatului/Ncmsoy din plasmă
+derivaților/Ncmpoy din plasmă
+derivatul/Ncmsry din plasmă
+derivații/Ncmpry din plasmă
+
+spic/Ncms-n glicoproteic
+spicului/Ncmsoy glicoproteic
+spicul/Ncmsry glicoproteic
+
+centru/Ncms-n de donare de sânge
+centre/Ncfp-n de donare de sânge
+centrului/Ncmsoy de donare de sânge
+centrelor/Ncfpoy de donare de sânge
+centrul/Ncmsry de donare de sânge
+centrele/Ncfpry de donare de sânge
+
+învățământ/Ncms-n la distanță
+învățământului/Ncmsoy la distanță
+învățământul/Ncmsry la distanță
+
+învățământ/Ncms-n on-line
+învățământului/Ncmsoy on-line
+învățământul/Ncmsry on-line
+
+serviciu/Ncms-n de transfuzie sanguină
+servicii/Ncfp-n de transfuzie sanguină
+serviciului/Ncmsoy de transfuzie sanguină
+serviciilor/Ncfpoy de transfuzie sanguină
+serviciul/Ncmsry de transfuzie sanguină
+serviciile/Ncfpry de transfuzie sanguină
+
+centru/Ncms-n de coordonare pentru echipamente medicale (COVID-19)
+centre/Ncfp-n de coordonare pentru echipamente medicale (COVID-19)
+centrului/Ncmsoy de coordonare pentru echipamente medicale (COVID-19)
+centrelor/Ncfpoy de coordonare pentru echipamente medicale (COVID-19)
+centrul/Ncmsry de coordonare pentru echipamente medicale (COVID-19)
+centrele/Ncfpry de coordonare pentru echipamente medicale (COVID-19)
+
+centru/Ncms-n de coordonare pentru echipamente medicale
+centre/Ncfp-n de coordonare pentru echipamente medicale
+centrului/Ncmsoy de coordonare pentru echipamente medicale
+centrelor/Ncfpoy de coordonare pentru echipamente medicale
+centrul/Ncmsry de coordonare pentru echipamente medicale
+centrele/Ncfpry de coordonare pentru echipamente medicale
+
+rezultat/Ncms-n fals pozitiv
+rezultate/Ncfp-n fals pozitive
+rezultatului/Ncmsoy fals pozitiv
+rezultatelor/Ncfpoy fals pozitive
+rezultatul/Ncmsry fals pozitiv
+rezultatele/Ncfpry fals pozitive
+
+test/Ncms-n fals pozitiv
+teste/Ncfp-n fals pozitive
+testului/Ncmsoy fals pozitiv
+testelor/Ncfpoy fals pozitive
+testul/Ncmsry fals pozitiv
+testele/Ncfpry fals pozitive
+
+test/Ncms-n fals negativ
+teste/Ncfp-n fals negative
+testului/Ncmsoy fals negativ
+testelor/Ncfpoy fals negative
+testul/Ncmsry fals negativ
+testele/Ncfpry fals negative
+
+rezultat/Ncms-n fals negativ
+rezultate/Ncfp-n fals negative
+rezultatului/Ncmsoy fals negativ
+rezultatelor/Ncfpoy fals negative
+rezultatul/Ncmsry fals negativ
+rezultatele/Ncfpry fals negative
+
+nivel/Ncms-n de biosecuritate
+niveluri/Ncfp-n de biosecuritate
+nivele/Ncfp-n de biosecuritate
+nivelului/Ncmsoy de biosecuritate
+nivelurilor/Ncfpoy de biosecuritate
+nivelelor/Ncfpoy de biosecuritate
+nivelul/Ncmsry de biosecuritate
+nivelurile/Ncfpry de biosecuritate
+nivelele/Ncfpry de biosecuritate
+
+stat/Ncms-n membru interesat
+state/Ncfp-n membre interesate
+statului/Ncmsoy membru interesat
+statelor/Ncfpoy membre interesate
+statul/Ncmsry membru interesat
+statele/Ncfpry membre interesate
+
+studiu/Ncms-n populațional
+studii/Ncfp-n populaționale
+studiului/Ncmsoy populațional
+studiilor/Ncfpoy populaționale
+studiul/Ncmsry populațional
+studiile/Ncfpry populaționale
+
+utilizator/Ncms-n expus la virus
+utilizatori/Ncmp-n expuși la virus
+utilizatorului/Ncmsoy expus la virus
+utilizatorilor/Ncmpoy expuși la virus
+utilizatorul/Ncmsry expus la virus
+utilizatorii/Ncmpry expuși la virus
+
+răspuns/Ncms-n imun
+răspunsuri/Ncfp-n imune
+răspunsului/Ncmsoy imun
+răspunsurilor/Ncfpoy imune
+răspunsul/Ncmsry imun
+răspunsurile/Ncfpry imune
+
+portofoliu/Ncms-n de vaccinuri potențiale
+portofolii/Ncfp-n de vaccinuri potențiale
+portofoliului/Ncmsoy de vaccinuri potențiale
+portofoliilor/Ncfpoy de vaccinuri potențiale
+portofoliul/Ncmsry de vaccinuri potențiale
+portofoliile/Ncfpry de vaccinuri potențiale
+
+utilizator/Ncms-n infectat
+utilizatori/Ncmp-n infectați
+utilizatorului/Ncmsoy infectat
+utilizatorilor/Ncmpoy infectați
+utilizatorul/Ncmsry infectat
+utilizatorii/Ncmpry infectați
+
+producător/Ncms-n de vaccinuri
+producători/Ncmp-n de vaccinuri
+producătorului/Ncmsoy de vaccinuri
+producătorilor/Ncmpoy de vaccinuri
+producătorul/Ncmsry de vaccinuri
+producătorii/Ncmpry de vaccinuri
+
+dezastru/Ncms-n natural regional
+dezastre/Ncfp-n naturale regionale
+dezastrului/Ncmsoy natural regional
+dezastrelor/Ncfpoy naturale regionale
+dezastrul/Ncmsry natural regional
+dezastrele/Ncfpry naturale regionale
+
+dezastru/Ncms-n natural major
+dezastre/Ncfp-n naturale majore
+dezastrului/Ncmsoy natural major
+dezastrelor/Ncfpoy naturale majore
+dezastrul/Ncmsry natural major
+dezastrele/Ncfpry naturale majore
+
+test/Ncms-n anticorpi
+teste/Ncfp-n anticorpi
+testului/Ncmsoy anticorpi
+testelor/Ncfpoy anticorpi
+testul/Ncmsry anticorpi
+testele/Ncfpry anticorpi
+
+test/Ncms-n de detecție a anticorpilor
+teste/Ncfp-n de detecție a anticorpilor
+testului/Ncmsoy de detecție a anticorpilor
+testelor/Ncfpoy de detecție a anticorpilor
+testul/Ncmsry de detecție a anticorpilor
+testele/Ncfpry de detecție a anticorpilor
+
+flacon/Ncms-n
+flacoane/Ncfp-n
+flaconului/Ncmsoy
+flacoanelor/Ncfpoy
+flaconul/Ncmsry
+flacoanele/Ncfpry
+
+uz/Ncms-n compasional
+uzuri/Ncfp-n compasionale
+uzului/Ncmsoy compasional
+uzurilor/Ncfpoy compasionale
+uzul/Ncmsry compasional
+uzurile/Ncfpry compasionale
+
+studiu/Ncms-n sero-epidemiologic
+studii/Ncfp-n sero-epidemiologice
+studiului/Ncmsoy sero-epidemiologic
+studiilor/Ncfpoy sero-epidemiologice
+studiul/Ncmsry sero-epidemiologic
+studiile/Ncfpry sero-epidemiologice
+
+control/Ncms-n pozitiv
+controale/Ncfp-n pozitive
+controlului/Ncmsoy pozitiv
+controalelor/Ncfpoy pozitive
+controlul/Ncmsry pozitiv
+controalele/Ncfpry pozitive
+
+material/Ncms-n cu rol de control pozitiv
+materiale/Ncfp-n cu rol de control pozitiv
+materialului/Ncmsoy cu rol de control pozitiv
+materialelor/Ncfpoy cu rol de control pozitiv
+materialul/Ncmsry cu rol de control pozitiv
+materialele/Ncfpry cu rol de control pozitiv
+
+test/Ncms-n antigenic
+teste/Ncfp-n antigenice
+testului/Ncmsoy antigenic
+testelor/Ncfpoy antigenice
+testul/Ncmsry antigenic
+testele/Ncfpry antigenice
+
+test/Ncms-n antigen
+teste/Ncfp-n antigen
+testului/Ncmsoy antigen
+testelor/Ncfpoy antigen
+testul/Ncmsry antigen
+testele/Ncfpry antigen
+
+imunitate/Ncfsrn activă
+imunități/Ncfson active
+imunității/Ncfsoy active
+imunitatea/Ncfsry activă
+
+eveniment/Ncms-n internațional pentru donații în cadrul răspunsului mondial la criza provocată de coronavirus
+evenimente/Ncfp-n internaționale pentru donații în cadrul răspunsului mondial la criza provocată de coronavirus
+evenimentului/Ncmsoy internațional pentru donații în cadrul răspunsului mondial la criza provocată de coronavirus
+evenimentelor/Ncfpoy internaționale pentru donații în cadrul răspunsului mondial la criza provocată de coronavirus
+evenimentul/Ncmsry internațional pentru donații în cadrul răspunsului mondial la criza provocată de coronavirus
+evenimentele/Ncfpry internaționale pentru donații în cadrul răspunsului mondial la criza provocată de coronavirus
+
+summit/Ncms-n privind răspunsul mondial la criza provocată de coronavirus
+summituri/Ncfp-n privind răspunsul mondial la criza provocată de coronavirus
+summitului/Ncmsoy privind răspunsul mondial la criza provocată de coronavirus
+summiturilor/Ncfpoy privind răspunsul mondial la criza provocată de coronavirus
+summitul/Ncmsry privind răspunsul mondial la criza provocată de coronavirus
+summiturile/Ncfpry privind răspunsul mondial la criza provocată de coronavirus
+
+medicament/Ncms-n matur
+medicamente/Ncfp-n mature
+medicamentului/Ncmsoy matur
+medicamentelor/Ncfpoy mature
+medicamentul/Ncmsry matur
+medicamentele/Ncfpry mature
+
+tampon/Ncms-n de exudat nazofaringian
+tampoane/Ncfp-n de exudat nazofaringian
+tamponului/Ncmsoy de exudat nazofaringian
+tampoanelor/Ncfpoy de exudat nazofaringian
+tamponul/Ncmsry de exudat nazofaringian
+tampoanele/Ncfpry de exudat nazofaringian
+
+angajament/Ncms-n anticipat de piață
+angajamente/Ncfp-n anticipate de piață
+angajamentului/Ncmsoy anticipat de piață
+angajamentelor/Ncfpoy anticipate de piață
+angajamentul/Ncmsry anticipat de piață
+angajamentele/Ncfpry anticipate de piață
+
+angajament/Ncms-n prealabil de achiziție
+angajamente/Ncfp-n prealabile de achiziție
+angajamentului/Ncmsoy prealabil de achiziție
+angajamentelor/Ncfpoy prealabile de achiziție
+angajamentul/Ncmsry prealabil de achiziție
+angajamentele/Ncfpry prealabile de achiziție
+
+tampon/Ncms-n orofaringian
+tampoane/Ncfp-n orofaringiene
+tamponului/Ncmsoy orofaringian
+tampoanelor/Ncfpoy orofaringiene
+tamponul/Ncmsry orofaringian
+tampoanele/Ncfpry orofaringiene
+
+miocard/Ncms-n
+miocardului/Ncmsoy
+miocardul/Ncmsry
+
+lavaj/Ncms-n bronhoalveolar
+lavaje/Ncfp-n bronhoalveolare
+lavajului/Ncmsoy bronhoalveolar
+lavajelor/Ncfpoy bronhoalveolare
+lavajul/Ncmsry bronhoalveolar
+lavajele/Ncfpry bronhoalveolare
+
+caz/Ncms-n asimptomatic contagios
+cazuri/Ncfp-n asimptomatice contagioase
+cazului/Ncmsoy asimptomatic contagios
+cazurilor/Ncfpoy asimptomatice contagioase
+cazul/Ncmsry asimptomatic contagios
+cazurile/Ncfpry asimptomatice contagioase
+
+test/Ncms-n rapid de detecție a unui antigen
+teste/Ncfp-n rapide de detecție a unui antigen
+testului/Ncmsoy rapid de detecție a unui antigen
+testelor/Ncfpoy rapide de detecție a unui antigen
+testul/Ncmsry rapid de detecție a unui antigen
+testele/Ncfpry rapide de detecție a unui antigen
+
+test/Ncms-n antigenic rapid
+teste/Ncfp-n antigenice rapide
+testului/Ncmsoy antigenic rapid
+testelor/Ncfpoy antigenice rapide
+testul/Ncmsry antigenic rapid
+testele/Ncfpry antigenice rapide
+
+cazuri/Ncfp-n grupate
+cazurile/Ncfpry grupate
+
+test/Ncms-n autoadministrabil
+teste/Ncfp-n autoadministrabile
+testului/Ncmsoy autoadministrabil
+testelor/Ncfpoy autoadministrabile
+testul/Ncmsry autoadministrabil
+testele/Ncfpry autoadministrabile
+
+test/Ncms-n rapid
+teste/Ncfp-n rapide
+testului/Ncmsoy rapid
+testelor/Ncfpoy rapide
+testul/Ncmsry rapid
+testele/Ncfpry rapide
+
+test/Ncms-n rapid pentru diagnosticul unei infecții
+teste/Ncfp-n rapide pentru diagnosticul unei infecții
+testului/Ncmsoy rapid pentru diagnosticul unei infecții
+testelor/Ncfpoy rapide pentru diagnosticul unei infecții
+testul/Ncmsry rapid pentru diagnosticul unei infecții
+testele/Ncfpry rapide pentru diagnosticul unei infecții
+
+eveniment/Ncms-n de strângere de donații
+evenimente/Ncfp-n de strângere de donații
+evenimentului/Ncmsoy de strângere de donații
+evenimentelor/Ncfpoy de strângere de donații
+evenimentul/Ncmsry de strângere de donații
+evenimentele/Ncfpry de strângere de donații
+
+eveniment/Ncms-n de atragere de fonduri
+evenimente/Ncfp-n de atragere de fonduri
+evenimentului/Ncmsoy de atragere de fonduri
+evenimentelor/Ncfpoy de atragere de fonduri
+evenimentul/Ncmsry de atragere de fonduri
+evenimentele/Ncfpry de atragere de fonduri
+
+caz/Ncms-n primar
+cazuri/Ncfp-n primare
+cazului/Ncmsoy primar
+cazurilor/Ncfpoy primare
+cazul/Ncmsry primar
+cazurile/Ncfpry primare
+
+interferon/Ncms-n
+interferoni/Ncmp-n
+interferonului/Ncmsoy
+interferonilor/Ncmpoy
+interferonul/Ncmsry
+interferonii/Ncmpry
+
+dispozitiv/Ncms-n pentru autotestare
+dispozitive/Ncfp-n pentru autotestare
+dispozitivului/Ncmsoy pentru autotestare
+dispozitivelor/Ncfpoy pentru autotestare
+dispozitivul/Ncmsry pentru autotestare
+dispozitivele/Ncfpry pentru autotestare
+
+studiu/Ncms-n epidemiologic
+studii/Ncfp-n epidemiologice
+studiului/Ncmsoy epidemiologic
+studiilor/Ncfpoy epidemiologice
+studiul/Ncmsry epidemiologic
+studiile/Ncfpry epidemiologice
+
+caz/Ncms-n index
+cazuri/Ncfp-n index
+cazului/Ncmsoy index
+cazurilor/Ncfpoy index
+cazul/Ncmsry index
+cazurile/Ncfpry index
+
+glicoproteină de înveliș/Ncms-n
+glicoproteine de înveliș/Ncms-n
+glicoproteinei de înveliș/Ncms-n
+glicoproteinelor de înveliș/Ncms-n
+glicoproteina de înveliș/Ncms-n
+glicoproteinele de înveliș/Ncms-n
+
+polimetacrilat/Ncms-n
+polimetacrilați/Ncmp-n
+polimetacrilatului/Ncmsoy
+polimetacrilaților/Ncmpoy
+polimetacrilatul/Ncmsry
+polimetacrilații/Ncmpry
+
+medicament/Ncms-n pentru tratamente „off-label”
+medicamente/Ncfp-n pentru tratamente „off-label”
+medicamentului/Ncmsoy pentru tratamente „off-label”
+medicamentelor/Ncfpoy pentru tratamente „off-label”
+medicamentul/Ncmsry pentru tratamente „off-label”
+medicamentele/Ncfpry pentru tratamente „off-label”
+
+medicament/Ncms-n cu utilizare în afara indicațiilor terapeutice
+medicamente/Ncfp-n cu utilizare în afara indicațiilor terapeutice
+medicamentului/Ncmsoy cu utilizare în afara indicațiilor terapeutice
+medicamentelor/Ncfpoy cu utilizare în afara indicațiilor terapeutice
+medicamentul/Ncmsry cu utilizare în afara indicațiilor terapeutice
+medicamentele/Ncfpry cu utilizare în afara indicațiilor terapeutice
+
+preparat/Ncms-n magistral
+preparate/Ncfp-n magistrale
+preparatului/Ncmsoy magistral
+preparatelor/Ncfpoy magistrale
+preparatul/Ncmsry magistral
+preparatele/Ncfpry magistrale
+
+pacient/Ncms-n asimptomatic
+pacienți/Ncmp-n asimptomatici
+pacientului/Ncmsoy asimptomatic
+pacienților/Ncmpoy asimptomatic
+pacientul/Ncmsry asimptomatic
+pacienții/Ncmpry asimptomatici
+
+test/Ncms-n serologic
+teste/Ncfp-n serologice
+testului/Ncmsoy serologic
+testelor/Ncfpoy serologice
+testul/Ncmsry serologic
+testele/Ncfpry serologice
+
+principiu/Ncms-n activ
+principii/Ncfp-n active
+principiului/Ncmsoy activ
+principiilor/Ncfpoy active
+principiul/Ncmsry activ
+principiile/Ncfpry active
+
+triaj/Ncms-n clinico-epidemiologic
+triaje/Ncfp-n clinico-epidemiologice
+triajului/Ncmsoy clinico-epidemiologic
+triajelor/Ncfpoy clinico-epidemiologice
+triajul/Ncmsry clinico-epidemiologic
+triajele/Ncfpry clinico-epidemiologic
+
+studiu/Ncms-n clinic intervențional multicentric
+studii/Ncfp-n clinice intervenționale multicentrice
+studiului/Ncmsoy clinic intervențional multicentric
+studiilor/Ncfpoy clinice intervenționale multicentrice
+studiul/Ncmsry clinic intervențional multicentric
+studiile/Ncfpry clinice intervenționale multicentrice
+
+test/Ncms-n pentru diagnosticul infecției cu SARS-CoV-2
+teste/Ncfp-n pentru diagnosticul infecției cu SARS-CoV-2
+testului/Ncmsoy pentru diagnosticul infecției cu SARS-CoV-2
+testelor/Ncfpoy pentru diagnosticul infecției cu SARS-CoV-2
+testul/Ncmsry pentru diagnosticul infecției cu SARS-CoV-2
+testele/Ncfpry pentru diagnosticul infecției cu SARS-CoV-2
+
+test/Ncms-n pentru COVID-19
+teste/Ncfp-n pentru COVID-19
+testului/Ncmsoy pentru COVID-19
+testelor/Ncfpoy pentru COVID-19
+testul/Ncmsry pentru COVID-19
+testele/Ncfpry pentru COVID-19
+
+studiu/Ncms-n clinic intervențional adaptativ
+studii/Ncfp-n clinice intervenționale adaptative
+studiului/Ncmsoy clinic intervențional adaptativ
+studiilor/Ncfpoy clinice intervenționale adaptative
+studiul/Ncmsry clinic intervențional adaptativ
+studiile/Ncfpry clinice intervenționale adaptative
+
+ecran/Ncms-n de protecție facială
+ecrane/Ncfp-n de protecție facială
+ecranului/Ncmsoy de protecție facială
+ecranelor/Ncfpoy de protecție facială
+ecranul/Ncmsry de protecție facială
+ecranele/Ncfpry de protecție facială
+
+scut/Ncms-n facial
+scuturi/Ncfp-n faciale
+scutului/Ncmsoy facial
+scuturilor/Ncfpoy faciale
+scutul/Ncmsry facial
+scuturile/Ncfpry faciale
+
+vizor/Ncms-n de protecție
+vizoare/Ncfp-n de protecție
+vizorului/Ncmsoy de protecție
+vizoarelor/Ncfpoy de protecție
+vizorul/Ncmsry de protecție
+vizoarele/Ncfpry de protecție
+
+Sistem/Ncms-n de sprijin pentru managementul clinic al COVID-19
+Sistemului/Ncmsoy de sprijin pentru managementul clinic al COVID-19
+Sistemul/Ncmsry de sprijin pentru managementul clinic al COVID-19
+
+sistem/Ncms-n extracorporal de susținere a vieții
+sisteme/Ncfp-n extracorporale de susținere a vieții
+sistemului/Ncmsoy extracorporal de susținere a vieții
+sistemelor/Ncfpoy extracorporale de susținere a vieții
+sistemul/Ncmsry extracorporal de susținere a vieții
+sistemele/Ncfpry extracorporale de susținere a vieții
+
+ventilator/Ncms-n mecanic
+ventilatoare/Ncfp-n mecanice
+ventilatorului/Ncmsoy mecanic
+ventilatoarelor/Ncfpoy mecanice
+ventilatorul/Ncmsry mecanic
+ventilatoarele/Ncfpry mecanice
+
+aparat/Ncms-n pentru respirație artificială
+aparate/Ncfp-n pentru respirație artificială
+aparatului/Ncmsoy pentru respirație artificială
+aparatelor/Ncfpoy pentru respirație artificială
+aparatul/Ncmsry pentru respirație artificială
+aparatele/Ncfpry pentru respirație artificială
+
+ventilator/Ncms-n pulmonar
+ventilatoare/Ncfp-n pulmonare
+ventilatorului/Ncmsoy pulmonar
+ventilatoarelor/Ncfpoy pulmonare
+ventilatorul/Ncmsry pulmonar
+ventilatoarele/Ncfpry pulmonare
+
+echipament/Ncms-n individual de protecție
+echipamente/Ncfp-n individuale de protecție
+echipamentului/Ncmsoy individual de protecție
+echipamentelor/Ncfpoy individuale de protecție
+echipamentul/Ncmsry individual de protecție
+echipamentele/Ncfpry individual de protecție
+
+echipament/Ncms-n personal de protecție
+echipamente/Ncfp-n personale de protecție
+echipamentului/Ncmsoy personal de protecție
+echipamentelor/Ncfpoy personale de protecție
+echipamentul/Ncmsry personal de protecție
+echipamentele/Ncfpry personale de protecție
+
+gel/Ncms-n hidroalcoolic
+geluri/Ncfp-n hidroalcoolice
+gelului/Ncmsoy hidroalcoolic
+gelurilor/Ncfpoy hidroalcoolice
+gelul/Ncmsry hidroalcoolic
+gelurile/Ncfpry hidroalcoolice
+
+personal/Ncms-n care asigură prima intervenție
+personalului/Ncmsoy care asigură prima intervenție
+personalul/Ncmsry care asigură prima intervenție
+
+spațiu/Ncms-n interstițial
+spații/Ncfp-n interstițiale
+spațiului/Ncmsoy interstițial
+spațiilor/Ncfpoy interstițiale
+spațiul/Ncmsry interstițial
+spațiile/Ncfpry interstițiale
+
+șoc/Ncms-n septic
+șocuri/Ncfp-n septice
+șocului/Ncmsoy septic
+șocurilor/Ncfpoy septice
+șocul/Ncmsry septic
+șocurile/Ncfpry septice
+
+spațiu/Ncms-n mort anatomic
+spații/Ncfp-n moarte anatomic
+spațiului/Ncmsoy mort anatomic
+spațiilor/Ncfpoy moarte anatomic
+spațiul/Ncmsry mort anatomic
+spațiile/Ncfpry moarte anatomic
+
+acord/Ncms-n preliminar de achiziție
+acorduri/Ncfp-n preliminare de achiziție
+acordului/Ncmsoy preliminar de achiziție
+acordurile/Ncfpry preliminare de achiziție
+acordul/Ncmsry preliminar de achiziție
+acordurile/Ncfpry preliminar de achiziție
+
+APA/Ncfsry
+
+Cadru/Ncms-n temporar pentru măsuri de ajutor de stat
+Cadrului/Ncmsoy temporar pentru măsuri de ajutor de stat
+Cadrul/Ncmsry temporar pentru măsuri de ajutor de stat
+
+Cadru/Ncms-n temporar pentru măsuri de ajutor de stat de sprijinire a economiei în contextul actualei epidemii de COVID-19
+Cadrului/Ncmsoy temporar pentru măsuri de ajutor de stat de sprijinire a economiei în contextul actualei epidemii de COVID-19
+Cadrul/Ncmsry temporar pentru măsuri de ajutor de stat de sprijinire a economiei în contextul actualei epidemii de COVID-19
+
+Cadru/Ncms-n temporar privind ajutoarele de stat
+Cadrului/Ncmsoy temporar privind ajutoarele de stat
+Cadrul/Ncmsry temporar privind ajutoarele de stat
+
+Grup/Ncms-n de informare privind COVID-19 – Afaceri interne
+Grupului/Ncmsoy de informare privind COVID-19 – Afaceri interne
+Grupul/Ncmsry de informare privind COVID-19 – Afaceri interne
+
+produs/Ncms-n necesar în situații de criză
+produse/Ncfp-n necesare în situații de criză
+produsului/Ncmsoy necesar în situații de criză
+produselor/Ncfpoy necesare în situații de criză
+produsul/Ncmsry necesar în situații de criză
+produsele/Ncfpry necesare în situații de criză
+
+agent/Ncms-n terapeutic pentru investigație clinică
+agenți/Ncmp-n terapeutici pentru investigație clinică
+agentului/Ncmsoy terapeutic pentru investigație clinică
+agenților/Ncmpoy terapeutice pentru investigație clinică
+agentul/Ncmsry terapeutic pentru investigație clinică
+agenții/Ncmpry terapeutici pentru investigație clinică
+
+Instrument/Ncms-n de sprijin pentru solvabilitate
+Instrumentului/Ncmsoy de sprijin pentru solvabilitate
+Instrumentul/Ncmsry de sprijin pentru solvabilitate
+
+Instrument/Ncms-n pentru solvabilitate
+Instrumentului/Ncmsoy pentru solvabilitate
+Instrumentul/Ncmsry pentru solvabilitate
+
+Foaie/Ncfsrn de parcurs comună pentru redresare
+Foii/Ncfsoy de parcurs comune pentru redresare
+Foaia/Ncfsry de parcurs comună pentru redresare
+
+Foaia/Ncfsry de parcurs pentru redresare
+Foii/Ncfsoy de parcurs pentru redresare
+Foaia/Ncfsry de parcurs pentru redresare
+
+eveniment/Ncms-n cu risc foarte mare de răspândire a unui virus
+evenimente/Ncfp-n cu risc foarte mare de răspândire a unui virus
+evenimentului/Ncmsoy cu risc foarte mare de răspândire a unui virus
+evenimentelor/Ncfpoy cu risc foarte mare de răspândire a unui virus
+evenimentul/Ncmsry cu risc foarte mare de răspândire a unui virus
+evenimentele/Ncfpry cu risc foarte mare de răspândire a unui virus
+
+stat/Ncms-n membru de referință
+state/Ncfp-n membre de referință
+statului/Ncmsoy membru de referință
+statelor/Ncfpoy membre de referință
+statul/Ncmsry membru de referință
+statele/Ncfpry membre de referință
+
+Instrument/Ncms-n SURE
+Instrumentului/Ncmsoy SURE
+Instrumentul/Ncmsry SURE
+
+Instrument/Ncms-n european de sprijin temporar pentru atenuarea riscurilor de șomaj într-o situație de urgență
+Instrumentului/Ncmsoy european de sprijin temporar pentru atenuarea riscurilor de șomaj într-o situație de urgență
+Instrumentul/Ncmsry european de sprijin temporar pentru atenuarea riscurilor de șomaj într-o situație de urgență
+
+grup/Ncms-n de risc
+grupuri/Ncfp-n de risc
+grupului/Ncmsoy de risc
+grupurilor/Ncfpoy de risc
+grupul/Ncmsry de risc
+grupurile/Ncfpry de risc
+
+grup/Ncms-n vulnerabil
+grupuri/Ncfp-n vulnerabile
+grupului/Ncmsoy vulnerabil
+grupurilor/Ncfpoy vulnerabile
+grupul/Ncmsry vulnerabil
+grupurile/Ncfpry vulnerabile
+
+medic/Ncms-n ATI
+medici/Ncmp-n ATI
+medicului/Ncmsoy ATI
+medicilor/Ncmpoy ATI
+medicul/Ncmsry ATI
+medicii/Ncmpry ATI
+
+medic/Ncms-n anestezie și terapie intensivă
+medici/Ncmp-n anestezie și terapie intensivă
+medicului/Ncmsoy anestezie și terapie intensivă
+medicilor/Ncmpoy anestezie și terapie intensivă
+medicul/Ncmsry anestezie și terapie intensivă
+medicii/Ncmpry anestezie și terapie intensivă
+
+Instrument/Ncms-n pentru sprijin de urgență în cadrul Uniunii
+Instrumentului/Ncmsoy pentru sprijin de urgență în cadrul Uniunii
+Instrumentul/Ncmsry pentru sprijin de urgență în cadrul Uniunii
+
+Instrument/Ncms-n de sprijin de urgență
+Instrumentului/Ncmsoy de sprijin de urgență
+Instrumentul/Ncmsry de sprijin de urgență
+
+Instrument/Ncms-n dedicat sprijinului de urgență pe teritoriul Uniunii
+Instrumentului/Ncmsoy dedicat sprijinului de urgență pe teritoriul Uniunii
+Instrumentul/Ncmsry dedicat sprijinului de urgență pe teritoriul Uniunii
+
+Consiliu/Ncms-n mondial de monitorizare a pregătirii
+Consiliului/Ncmsoy mondial de monitorizare a pregătirii
+Consiliul/Ncmsry mondial de monitorizare a pregătirii
+
+Sistem/Ncms-n european de reasigurare pentru indemnizațiile de șomaj
+Sistemului/Ncmsoy european de reasigurare pentru indemnizațiile de șomaj
+Sistemul/Ncmsry european de reasigurare pentru indemnizațiile de șomaj
+
+sistem/Ncms-n de alertă precoce și răspuns rapid privind prevenirea și controlul bolilor transmisibile
+sisteme/Ncfp-n de alertă precoce și răspuns rapid privind prevenirea și controlul bolilor transmisibile
+sistemului/Ncmsoy de alertă precoce și răspuns rapid privind prevenirea și controlul bolilor transmisibile
+sistemelor/Ncfpoy de alertă precoce și răspuns rapid privind prevenirea și controlul bolilor transmisibile
+sistemul/Ncmsry de alertă precoce și răspuns rapid privind prevenirea și controlul bolilor transmisibile
+sistemele/Ncfpry de alertă precoce și răspuns rapid privind prevenirea și controlul bolilor transmisibile
+
+sistem/Ncms-n de alertă precoce și răspuns rapid
+sisteme/Ncfp-n de alertă precoce și răspuns rapid
+sistemului/Ncmsoy de alertă precoce și răspuns rapid
+sistemelor/Ncfpoy de alertă precoce și răspuns rapid
+sistemul/Ncmsry de alertă precoce și răspuns rapid
+sistemele/Ncfpry de alertă precoce și răspuns rapid
+
+personal/Ncms-n care ocupă funcții esențiale
+personalului/Ncmsoy care ocupă funcții esențiale
+personalul/Ncmsry care ocupă funcții esențiale
+
+lucrător/Ncms-n care asigură servicii esențiale
+lucrători/Ncmp-n care asigură servicii esențiale
+lucrătorului/Ncmsoy care asigură servicii esențiale
+lucrătorilor/Ncmpoy care asigură servicii esențiale
+lucrătorul/Ncmsry care asigură servicii esențiale
+lucrătorii/Ncmpry care asigură servicii esențiale
+
+medicament/Ncms-n alternativ
+medicamente/Ncfp-n alternative
+medicamentului/Ncmsoy alternativ
+medicamentelor/Ncfpoy alternative
+medicamentul/Ncmsry alternativ
+medicamentele/Ncfpry alternativ
+
+Mecanism/Ncms-n UE pentru coordonarea în situații de urgență și de criză
+Mecanisme/Ncfp-n UE pentru coordonarea în situații de urgență și de criză
+Mecanismului/Ncmsoy UE pentru coordonarea în situații de urgență și de criză
+Mecanismelor/Ncfpoy UE pentru coordonarea în situații de urgență și de criză
+Mecanismul/Ncmsry UE pentru coordonarea în situații de urgență și de criză
+Mecanismele/Ncfpry UE pentru coordonarea în situații de urgență și de criză
+
+acord/Ncms-n privind achizițiile publice comune
+acorduri/Ncfp-n privind achizițiile publice comune
+acordului/Ncmsoy privind achizițiile publice comune
+acordurilor/Ncfpoy privind achizițiile publice comune
+acordul/Ncmsry privind achizițiile publice comune
+acordurile/Ncfpry privind achizițiile publice comune
+
+acord/Ncms-n privind achizițiile publice comune de contramăsuri medicale
+acorduri/Ncfp-n privind achizițiile publice comune de contramăsuri medicale
+acordului/Ncmsoy privind achizițiile publice comune de contramăsuri medicale
+acordurilor/Ncfpoy privind achizițiile publice comune de contramăsuri medicale
+acordul/Ncmsry privind achizițiile publice comune de contramăsuri medicale
+acordurile/Ncfpry privind achizițiile publice comune de contramăsuri medicale
+
+bază/Ncfsrn de date CCP a UE
+bazei/Ncfsoy de date CCP a UE
+baza/Ncfsry de date CCP a UE
+
+Alianță/Ncfsrn Europeană în domeniul Sângelui
+Alianței/Ncfsoy Europene în domeniul Sângelui
+Alianța/Ncfsry Europeană în domeniul Sângelui
+
+Parteneriat/Ncms-n pentru acoperirea universală cu servicii de sănătate
+Parteneriatului/Ncmsoy pentru acoperirea universală cu servicii de sănătate
+Parteneriatul/Ncmsry pentru acoperirea universală cu servicii de sănătate
+
+vector/Ncms-n neanimat
+vectori/Ncmp-n neanimați
+vectorului/Ncmsoy neanimat
+vectorilor/Ncmpoy neanimați
+vectorul/Ncmsry neanimat
+vectorii/Ncmpry neanimați
+
+donator/Ncms-n de plasmă convalescentă
+donatori/Ncmp-n de plasmă convalescentă
+donatorului/Ncmsoy de plasmă convalescentă
+donatorilor/Ncmpoy de plasmă convalescentă
+donatorul/Ncmsry de plasmă convalescentă
+donatorii/Ncmpry de plasmă convalescentă
+
+plan/Ncms-n de pregătire pentru situații de criză
+planuri/Ncfp-n de pregătire pentru situații de criză
+planului/Ncmsoy de pregătire pentru situații de criză
+planurilor/Ncfpoy de pregătire pentru situații de criză
+planul/Ncmsry de pregătire pentru situații de criză
+planurile/Ncfpry de pregătire pentru situații de criză
+
+plan/Ncms-n de pregătire pentru crize
+planuri/Ncfp-n de pregătire pentru crize
+planului/Ncmsoy de pregătire pentru crize
+planurilor/Ncfpoy de pregătire pentru crize
+planul/Ncmsry de pregătire pentru crize
+planurile/Ncfpry de pregătire pentru crize
+
+Comitet/Ncms-n de coordonare în caz de criză
+Comitetului/Ncmsoy de coordonare în caz de criză
+Comitetul/Ncmsry de coordonare în caz de criză
+
+platformă/Ncfsrn PEPP-PT
+platformei/Ncfsoy PEPP-PT
+platforma/Ncfsry PEPP-PT
+
+COVID de lungă durată/Ncfsrn
+COVIDului de lungă durată/Ncfsrn
+COVIDul de lungă durată/Ncfsrn
+
+sindrom/Ncms-n post-COVID
+sindromului/Ncmsoy post-COVID
+sindromul/Ncmsry post-COVID
+
+multilateralism/Ncms-n vaccinal
+multilateralismului/Ncmsoy vaccinal
+multilateralismul/Ncmsry vaccinal
+
+titular/Ncms-n al autorizației de introducere pe piață
+titulari/Ncmp-n ai autorizației de introducere pe piață
+titularului/Ncmsoy autorizației de introducere pe piață
+titularilor/Ncmpoy autorizației de introducere pe piață
+titularul/Ncmsry autorizației de introducere pe piață
+titularii/Ncmpry autorizației de introducere pe piață
+titular/Ncms-n al autorizațiilor de introducere pe piață
+titulari/Ncmp-n ai autorizațiilor de introducere pe piață
+titularului/Ncmsoy autorizațiilor de introducere pe piață
+titularilor/Ncmpoy autorizațiilor de introducere pe piață
+titularul/Ncmsry autorizațiilor de introducere pe piață
+titularii/Ncmpry autorizațiilor de introducere pe piață
+
+studiu/Ncms-n preclinic
+studii/Ncfp-n preclinice
+studiului/Ncmsoy preclinic
+studiilor/Ncfpoy preclinice
+studiul/Ncmsry preclinic
+studiile/Ncfpry preclinice
+
+test/Ncms-n PCR
+teste/Ncfp-n PCR
+testului/Ncmsoy PCR
+testelor/Ncfpoy PCR
+testul/Ncmsry PCR
+testele/Ncfpry PCR
+
+deșert/Ncms-n medical
+deșerturi/Ncfp-n medicale
+deșertului/Ncmsoy medical
+deșerturilor/Ncfpoy medicale
+deșertul/Ncmsry medical
+deșerturile/Ncfpry medical
+
+instrument/Ncms-n pentru vaccinuri
+instrumente/Ncfp-n pentru vaccinuri
+instrumentului/Ncmsoy pentru vaccinuri
+instrumentelor/Ncfpoy pentru vaccinuri
+instrumentul/Ncmsry pentru vaccinuri
+instrumentele/Ncfpry pentru vaccinuri
+
+rezervor/Ncms-n de infecție
+rezervoare/Ncfp-n de infecție
+rezervorului/Ncmsoy de infecție
+rezervoarelor/Ncfpoy de infecție
+rezervorul/Ncmsry de infecție
+rezervoarele/Ncfpry de infecție
+
+antigen/Ncms-n S (spike)
+antigenului/Ncmsoy S (spike)
+antigenul/Ncmsry S (spike)
+
+personal/Ncms-n medical suplimentar
+personalului/Ncmsoy medical suplimentar
+personalul/Ncmsry medical suplimentar
+
+inițiativă/Ncfsrn EIOS
+inițiativei/Ncfsoy EIOS
+inițiativa/Ncfsry EIOS
+
+proiect/Ncms-n „Informații Epidemiologice din Surse Deschise”
+proiectului/Ncmsoy „Informații Epidemiologice din Surse Deschise”
+proiectul/Ncmsry „Informații Epidemiologice din Surse Deschise”
+
+Obiectiv/Ncms-n al nostru mondial: Uniți pentru viitor
+Obiectivului/Ncmsoy nostru mondial: Uniți pentru viitor
+Obiectivul/Ncmsry nostru mondial: Uniți pentru viitor
+
+tratament/Ncms-n terapeutic
+tratamente/Ncfp-n terapeutice
+tratamentului/Ncmsoy terapeutic
+tratamentelor/Ncfpoy terapeutice
+tratamentul/Ncmsry terapeutic
+tratamentele/Ncfpry terapeutice
+
+Program/Ncms-n de solidaritate al Parteneriatului estic
+Programului/Ncmsoy de solidaritate al Parteneriatului estic
+Programul/Ncmsry de solidaritate al Parteneriatului estic
+
+Consiliu/Ncms-n de facilitare la nivel înalt
+Consiliului/Ncmsoy de facilitare la nivel înalt
+Consiliul/Ncmsry de facilitare la nivel înalt
+
+Consiliu/Ncms-n de facilitare al ACT-A
+Consiliului/Ncmsoy de facilitare al ACT-A
+Consiliul/Ncmsry de facilitare al ACT-A
+
+călător/Ncms-n cu rol esențial
+călători/Ncmp-n cu rol esențial
+călătorului/Ncmsoy cu rol esențial
+călătorilor/Ncmpoy cu rol esențial
+călătorul/Ncmsry cu rol esențial
+călătorii/Ncmpry cu rol esențial
+
+grant/Ncms-n pentru transport
+granturi/Ncfp-n pentru transport
+grantului/Ncmsoy pentru transport
+granturilor/Ncfpoy pentru transport
+grantul/Ncmsry pentru transport
+granturile/Ncfpry pentru transport
+
+virus/Ncms-n ARN
+virusuri/Ncfp-n ARN
+viruși/Ncmp-n ARN
+virusului/Ncmsoy ARN
+virusurilor/Ncfpoy ARN
+virușilor/Ncmpoy ARN
+virusul/Ncmsry ARN
+virusurile/Ncfpry ARN
+virușii/Ncmpry ARN
+
+instrument/Ncms-n de observare a Pământului cu acțiune rapidă în contextul pandemiei de COVID-19
+instrumente/Ncfp-n de observare a Pământului cu acțiune rapidă în contextul pandemiei de COVID-19
+instrumentului/Ncmsoy de observare a Pământului cu acțiune rapidă în contextul pandemiei de COVID-19
+instrumentelor/Ncfpoy de observare a Pământului cu acțiune rapidă în contextul pandemiei de COVID-19
+instrumentul/Ncmsry de observare a Pământului cu acțiune rapidă în contextul pandemiei de COVID-19
+instrumentele/Ncfpry de observare a Pământului cu acțiune rapidă în contextul pandemiei de COVID-19
+
+deces/Ncms-n
+decese/Ncfp-n
+decesului/Ncmsoy
+deceselor/Ncfpoy
+decesul/Ncmsry
+decesele/Ncfpry
+
+volum/Ncms-n respirator
+volume/Ncfp-n respiratorii
+volumului/Ncmsoy respirator
+volumelor/Ncfpoy respiratorii
+volumul/Ncmsry respirator
+volumele/Ncfpry respiratorii
+
+profilaxie/Ncfsrn postexpunere
+profilaxii/Ncfson postexpunere
+profilaxiei/Ncfsoy postexpunere
+profilaxiilor/Ncfpoy postexpunere
+profilaxia/Ncfsry postexpunere
+profilaxiile/Ncfpry postexpunere
+
+ritm/Ncms-n respirator
+ritmuri/Ncfp-n respiratorii
+ritmului/Ncmsoy respirator
+ritmurilor/Ncfpoy respiratorii
+ritmul/Ncmsry respirator
+ritmurile/Ncfpry respiratorii
+
+spațiu/Ncms-n mort
+spații/Ncfp-n moarte
+spațiului/Ncmsoy mort
+spațiilor/Ncfpoy moarte
+spațiul/Ncmsry mort
+spațiile/Ncfpry moarte
+
+sindrom/Ncms-n pseudogripal
+sindroame/Ncfp-n pseudogripale
+sindromului/Ncmsoy pseudogripal
+sindroamelor/Ncfpoy pseudogripale
+sindromul/Ncmsry pseudogripal
+sindroamele/Ncfpry pseudogripale
+
+aparat/Ncms-n respirator
+aparate/Ncfp-n respiratorii
+aparatului/Ncmsoy respirator
+aparatelor/Ncfpoy respiratorii
+aparatul/Ncmsry respirator
+aparatele/Ncfpry respiratorii
+
+tratament/Ncms-n simptomatic
+tratamente/Ncfp-n simptomatice
+tratamentului/Ncmsoy simptomatic
+tratamentelor/Ncfpoy simptomatice
+tratamentul/Ncmsry simptomatic
+tratamentele/Ncfpry simptomatice
+
+spital/Ncms-n de campanie
+spitale/Ncfp-n de campanie
+spitalului/Ncmsoy de campanie
+spitalelor/Ncfpoy de campanie
+spitale/Ncfp-n de campanie
+spitalele/Ncfpry de campanie
+
+flacon/Ncms-n cu doză unică
+flacoane/Ncfp-n cu doză unică
+flaconului/Ncmsoy cu doză unică
+flacoanelor/Ncfpoy cu doză unică
+flaconul/Ncmsry cu doză unică
+flacoanele/Ncfpry cu doză unică
+
+bypass/Ncms-n cardiopulmonar
+bypassuri/Ncfp-n cardiopulmonare
+bypassului/Ncmsoy cardiopulmonar
+bypassurilor/Ncfpoy cardiopulmonare
+bypassul/Ncmsry cardiopulmonar
+bypassurile/Ncfpry cardiopulmonare
+
+concentrat/Ncms-n eritrocitar
+concentrate/Ncfp-n eritrocitare
+concentratului/Ncmsoy eritrocitar
+concentratelor/Ncfpoy eritrocitare
+concentratul/Ncmsry eritrocitar
+concentratele/Ncfpry eritrocitare
+
+virus/Ncms-n pandemic
+virusuri/Ncfp-n pandemice
+viruși/Ncmp-n pandemici
+virusului/Ncmsoy pandemic
+virusurilor/Ncfpoy pandemice
+virușilor/Ncmpoy pandemici
+virusul/Ncmsry pandemic
+virusurile/Ncfpry pandemice
+virușii/Ncmpry pandemici
+
+imunitate/Ncfsrn sterilizantă
+imunități/Ncfson sterilizante
+imunității/Ncfsoy sterilizante
+imunităților/Ncfpoy sterilizante
+imunitatea/Ncfsry sterilizantă
+imunitățile/Ncfpry sterilizante
+
+focar/Ncms-n secundar
+focare/Ncfp-n secundare
+focarului/Ncmsoy secundar
+focarelor/Ncfpoy secundare
+focarul/Ncmsry secundar
+focarele/Ncfpry secundare
+
+producător/Ncms-n
+producători/Ncmp-n
+producătorului/Ncmsoy
+producătorilor/Ncmpoy
+producătorul/Ncmsry
+producătorii/Ncmpry
+
+NAT/Ncms-n
+
+volum/Ncms-n curent
+volume/Ncfp-n curente
+volumului/Ncmsoy curent
+volumelor/Ncfpoy curente
+volumul/Ncmsry curent
+volumele/Ncfpry curente
+
+zbor/Ncms-n medical
+zboruri/Ncfp-n medicale
+zborului/Ncmsoy medical
+zborurilor/Ncfpoy medicale
+zborul/Ncmsry medical
+zborurile/Ncfpry medicale
+
+instrument/Ncms-n care ilustrează solidaritatea europeană
+instrumentului/Ncmsoy care ilustrează solidaritatea europeană
+instrumentul/Ncmsry care ilustrează solidaritatea europeană
+
+sindrom/Ncms-n de oboseală cronică
+sindroame/Ncfp-n de oboseală cronică
+sindromului/Ncmsoy de oboseală cronică
+sindroamelor/Ncfpoy de oboseală cronică
+sindromul/Ncmsry de oboseală cronică
+sindroamele/Ncfpry de oboseală cronică
+
+angajament/Ncms-n prealabil de achiziție pentru vaccinuri
+angajamente/Ncfp-n prealabile de achiziție pentru vaccinuri
+angajamentului/Ncmsoy prealabil de achiziție pentru vaccinuri
+angajamentelor/Ncfpoy prealabile de achiziție pentru vaccinuri
+angajamentul/Ncmsry prealabil de achiziție pentru vaccinuri
+angajamentele/Ncfpry prealabil de achiziție pentru vaccinuri
+
+simptom/Ncms-n ușor
+simptome/Ncfp-n ușoare
+simptomului/Ncmsoy ușor
+simptomelor/Ncfpoy ușoare
+simptomul/Ncmsry ușor
+simptomele/Ncfpry ușoare
+
+portal/Ncms-n federativ
+portaluri/Ncfp-n federative
+portalului/Ncmsoy federativ
+portalurilor/Ncfpoy federative
+portalul/Ncmsry federativ
+portalurile/Ncfpry federative
+
+risc/Ncms-n de expunere
+riscuri/Ncfp-n de expunere
+riscului/Ncmsoy de expunere
+riscurilor/Ncfpoy de expunere
+riscul/Ncmsry de expunere
+riscurile/Ncfpry de expunere
+
+algoritm/Ncms-n de numărare a persoanelor pentru camerele de supraveghere video
+algoritmi/Ncmp-n de numărare a persoanelor pentru camerele de supraveghere video
+algoritmului/Ncmsoy de numărare a persoanelor pentru camerele de supraveghere video
+algoritmilor/Ncmpoy de numărare a persoanelor pentru camerele de supraveghere video
+algoritmul/Ncmsry de numărare a persoanelor pentru camerele de supraveghere video
+algoritmii/Ncmpry de numărare a persoanelor pentru camerele de supraveghere video
+
+flux/Ncms-n de aer vertical
+fluxuri/Ncfp-n de aer vertical
+fluxului/Ncmsoy de aer vertical
+fluxurilor/Ncfpoy de aer vertical
+fluxul/Ncmsry de aer vertical
+fluxurile/Ncfpry de aer vertical
+
+mecanism/Ncms-n de protecție civilă al Uniunii
+mecanisme/Ncfp-n de protecție civilă ale Uniunii
+mecanismului/Ncmsoy de protecție civilă al Uniunii
+mecanismelor/Ncfpoy de protecție civilă ale Uniunii
+mecanismul/Ncmsry de protecție civilă al Uniunii
+mecanismele/Ncfpry de protecție civilă ale Uniunii
+
+mecanismul/Ncmsry comunitar de protecție civilă
+mecanisme/Ncfp-n comunitare de protecție civilă
+mecanismului/Ncmsoy comunitar de protecție civilă
+mecanismelor/Ncfpoy comunitare de protecție civilă
+mecanismul/Ncmsry comunitar de protecție civilă
+mecanismele/Ncfpry comunitare de protecție civilă
+
+mecanismul/Ncmsry de protecție civilă al UE
+mecanisme/Ncfp-n de protecție civilă ale UE
+mecanismului/Ncmsoy de protecție civilă al UE
+mecanismelor/Ncfpoy de protecție civilă ale UE
+mecanismul/Ncmsry de protecție civilă al UE
+mecanismele/Ncfpry de protecție civilă ale UE
+
+lanț/Ncms-n de transmitere
+lanțuri/Ncfp-n de transmitere
+lanțului/Ncmsoy de transmitere
+lanțurilor/Ncfpoy de transmitere
+lanțul/Ncmsry de transmitere
+lanțurile/Ncfpry de transmitere
+
+lucrător/Ncms-n sezonier
+lucrători/Ncmp-n sezonieri
+lucrătorului/Ncmsoy sezonier
+lucrătorilor/Ncmpoy sezonieri
+lucrătorul/Ncmsry sezonier
+lucrătorii/Ncmpry sezonieri
+
+produs/Ncms-n medical
+produse/Ncfp-n medicale
+produsului/Ncmsoy medical
+produselor/Ncfpoy medicale
+produsul/Ncmsry medical
+produsele/Ncfpry medicale
+
+echipament/Ncms-n medical
+echipamente/Ncfp-n medicale
+echipamentului/Ncmsoy medical
+echipamentelor/Ncfpoy medicale
+echipamentul/Ncmsry medical
+echipamentele/Ncfpry medicale
+
+semi-mască filtrantă împotriva particulelor, de unică folosință/Ncfsrn
+semi-măști filtrante împotriva particulelor, de unică folosință/Ncfsrn
+semi-măștii filtrante împotriva particulelor, de unică folosință/Ncfsrn
+semi-măștilor filtrante împotriva particulelor, de unică folosință/Ncfsrn
+semi-masca filtrantă împotriva particulelor, de unică folosință/Ncfsrn
+semi-măștile filtrante împotriva particulelor, de unică folosință/Ncfsrn
+
+Asistență/Ncfsrn de redresare pentru coeziune și teritoriile Europei
+Asistenței/Ncfsoy de redresare pentru coeziune și teritoriile Europei
+Asistența/Ncfsry de redresare pentru coeziune și teritoriile Europei
+
+Mecanism/Ncms-n de investiții strategice
+Mecanisme/Ncfp-n de investiții strategice
+Mecanismului/Ncmsoy de investiții strategice
+Mecanismelor/Ncfpoy de investiții strategice
+Mecanismul/Ncmsry de investiții strategice
+Mecanismele/Ncfpry de investiții strategice
+
+document/Ncms-n de informare și sinteză
+documente/Ncfp-n de informare și sinteză
+documentului/Ncmsoy de informare și sinteză
+documentelor/Ncfpoy de informare și sinteză
+documentul/Ncmsry de informare și sinteză
+documentele/Ncfpry de informare și sinteză
+
+fond/Ncms-n de garantare paneuropean
+fonduri/Ncfp-n de garantare paneuropene
+fondului/Ncmsoy de garantare paneuropean
+fondurilor/Ncfpoy de garantare paneuropene
+fondul/Ncmsry de garantare paneuropean
+fondurile/Ncfpry de garantare paneuropene
+
+moratoriu/Ncms-n privat
+moratorii/Ncfp-n private
+moratoriului/Ncmsoy privat
+moratoriilor/Ncfpoy private
+moratoriul/Ncmsry privat
+moratoriile/Ncfpry private
+
+moratoriu/Ncms-n non-legislativ
+moratorii/Ncfp-n non-legislative
+moratoriului/Ncmsoy non-legislativ
+moratoriilor/Ncfpoy non-legislative
+moratoriul/Ncmsry non-legislativ
+moratoriile/Ncfpry non-legislative
+
+voucher de patronaj/Ncms-n
+vouchere de patronaj/Ncms-n
+voucherului de patronaj/Ncms-n
+voucherelor de patronaj/Ncms-n
+voucherul de patronaj/Ncms-n
+voucherele de patronaj/Ncms-n
+
+Comitet/Ncms-n Organismelor Europene de Supraveghere a Auditului
+Comitetului/Ncmsoy Organismelor Europene de Supraveghere a Auditului
+Comitetul/Ncmsry Organismelor Europene de Supraveghere a Auditului
+
+mecanism/Ncms-n complet de examinare
+mecanisme/Ncfp-n complete de examinare
+mecanismului/Ncmsoy complet de examinare
+mecanismelor/Ncfpoy complete de examinare
+mecanismul/Ncmsry complet de examinare
+mecanismele/Ncfpry complete de examinare
+
+coordonator/Ncms-n european al răspunsului la situații de urgență
+coordonatori/Ncmp-n europeni ai răspunsului la situații de urgență
+coordonatorului/Ncmsoy european al răspunsului la situații de urgență
+coordonatorilor/Ncmpoy europeni ai răspunsului la situații de urgență
+coordonatorul/Ncmsry european al răspunsului la situații de urgență
+coordonatorii/Ncmpry europeni ai răspunsului la situații de urgență
+
+mecanism/Ncms-n de examinare a investițiilor străine directe
+mecanisme/Ncfp-n de examinare a investițiilor străine directe
+mecanismului/Ncmsoy de examinare a investițiilor străine directe
+mecanismelor/Ncfpoy de examinare a investițiilor străine directe
+mecanismul/Ncmsry de examinare a investițiilor străine directe
+mecanismele/Ncfpry de examinare a investițiilor străine directe
+
+mecanism/Ncms-n de examinare a ISD
+mecanisme/Ncfp-n de examinare a ISD
+mecanismului/Ncmsoy de examinare a ISD
+mecanismelor/Ncfpoy de examinare a ISD
+mecanismul/Ncmsry de examinare a ISD
+mecanismele/Ncfpry de examinare a ISD
+
+medicament/Ncms-n necesar resuscitării
+medicamente/Ncfp-n necesare resuscitării
+medicamentului/Ncmsoy necesar resuscitării
+medicamentelor/Ncfpoy necesare resuscitării
+medicamentul/Ncmsry necesar resuscitării
+medicamentele/Ncfpry necesare resuscitării
+
+activ/Ncms-n strategic
+active/Ncfp-n strategice
+activului/Ncmsoy strategic
+activelor/Ncfpoy strategice
+activul/Ncmsry strategic
+activele/Ncfpry strategice
+
+activ/Ncms-n critic
+active/Ncfp-n critice
+activului/Ncmsoy critic
+activelor/Ncfpoy critice
+activul/Ncmsry critic
+activele/Ncfpry critice
+
+moratoriu/Ncms-n statutar
+moratorii/Ncfp-n statutare
+moratoriului/Ncmsoy statutar
+moratoriilor/Ncfpoy statutare
+moratoriul/Ncmsry statutar
+moratoriile/Ncfpry statutare
+
+moratoriu/Ncms-n public
+moratorii/Ncfp-n publice
+moratoriului/Ncmsoy public
+moratoriilor/Ncfpoy publice
+moratoriul/Ncmsry public
+moratoriile/Ncfpry publice
+
+moratoriu/Ncms-n legislativ
+moratorii/Ncfp-n legislative
+moratoriului/Ncmsoy legislativ
+moratoriilor/Ncfpoy legislative
+moratoriul/Ncmsry legislativ
+moratoriile/Ncfpry legislative
+
+medicament/Ncms-n esențial
+medicamente/Ncfp-n esențiale
+medicamentului/Ncmsoy esențial
+medicamentelor/Ncfpoy esențiale
+medicamentul/Ncmsry esențial
+medicamentele/Ncfpry esențiale
+
+oxigen/Ncms-n medical
+oxigenului/Ncmsoy medical
+oxigenul/Ncmsry medical
+
+Mecanismul/Ncmsry de garantare a împrumuturilor
+Mecanisme/Ncfp-n de garantare a împrumuturilor
+Mecanismului/Ncmsoy de garantare a împrumuturilor
+Mecanismelor/Ncfpoy de garantare a împrumuturilor
+Mecanismul/Ncmsry de garantare a împrumuturilor
+Mecanismele/Ncfpry de garantare a împrumuturilor
+
+Mecanismul/Ncmsry de garantare a împrumuturilor din cadrul COSME
+Mecanisme/Ncfp-n de garantare a împrumuturilor din cadrul COSME
+Mecanismului/Ncmsoy de garantare a împrumuturilor din cadrul COSME
+Mecanismelor/Ncfpoy de garantare a împrumuturilor din cadrul COSME
+Mecanismul/Ncmsry de garantare a împrumuturilor din cadrul COSME
+Mecanismele/Ncfpry de garantare a împrumuturilor din cadrul COSME
+
+Mecanismul/Ncmsry de capitaluri proprii pentru creștere
+Mecanisme/Ncfp-n de capitaluri proprii pentru creștere
+Mecanismului/Ncmsoy de capitaluri proprii pentru creștere
+Mecanismelor/Ncfpoy de capitaluri proprii pentru creștere
+Mecanismul/Ncmsry de capitaluri proprii pentru creștere
+Mecanismele/Ncfpry de capitaluri proprii pentru creștere
+
+Mecanismul/Ncmsry de capitaluri proprii pentru creștere din cadrul programului COSME
+Mecanisme/Ncfp-n de capitaluri proprii pentru creștere din cadrul programului COSME
+Mecanismului/Ncmsoy de capitaluri proprii pentru creștere din cadrul programului COSME
+Mecanismelor/Ncfpoy de capitaluri proprii pentru creștere din cadrul programului COSME
+Mecanismul/Ncmsry de capitaluri proprii pentru creștere din cadrul programului COSME
+Mecanismele/Ncfpry de capitaluri proprii pentru creștere din cadrul programului COSME
+
+medic/Ncms-n de familie din sistemul de supraveghere tip santinelă
+medici/Ncmp-n de familie din sistemul de supraveghere tip santinelă
+medicului/Ncmsoy de familie din sistemul de supraveghere tip santinelă
+medicilor/Ncmpoy de familie din sistemul de supraveghere tip santinelă
+medicul/Ncmsry de familie din sistemul de supraveghere tip santinelă
+medicii/Ncmpry de familie din sistemul de supraveghere tip santinelă
+
+caz/Ncms-n asimptomatic
+cazuri/Ncfp-n asimptomatice
+cazului/Ncmsoy asimptomatic
+cazurilor/Ncfpoy asimptomatice
+cazul/Ncmsry asimptomatic
+cazurile/Ncfpry asimptomatice
+
+purtător/Ncms-n asimptomatic
+purtători/Ncmp-n asimptomatici
+purtătorului/Ncmsoy asimptomatic
+purtătorilor/Ncmpoy asimptomatici
+purtătorul/Ncmsry asimptomatic
+purtătorii/Ncmpry asimptomatici
+
+test/Ncms-n de diagnosticare rapidă la locul acordării asistenței medicale
+teste/Ncfp-n de diagnosticare rapidă la locul acordării asistenței medicale
+testului/Ncmsoy de diagnosticare rapidă la locul acordării asistenței medicale
+testelor/Ncfpoy de diagnosticare rapidă la locul acordării asistenței medicale
+testul/Ncmsry de diagnosticare rapidă la locul acordării asistenței medicale
+testele/Ncfpry de diagnosticare rapidă la locul acordării asistenței medicale
+
+studiu/Ncms-n clinic intervențional multicentric, adaptativ și randomizat
+studii/Ncfp-n clinice intervențional multicentrice, adaptative și randomizate
+studiului/Ncmsoy clinic intervențional multicentric, adaptativ și randomizat
+studiilor/Ncfpoy clinice intervențional multicentrice, adaptative și randomizate
+studiul/Ncmsry clinic intervențional multicentric, adaptativ și randomizat
+studiile/Ncfpry clinice intervențional multicentrice, adaptative și randomizate
+
+caz/Ncms-n de import
+cazuri/Ncfp-n de import
+cazului/Ncmsoy de import
+cazurilor/Ncfpoy de import
+cazul/Ncmsry de import
+cazurile/Ncfpry de import
+
+sistem/Ncms-n de interoperabilitate
+sisteme/Ncfp-n de interoperabilitate
+sistemului/Ncmsoy de interoperabilitate
+sistemelor/Ncfpoy de interoperabilitate
+sistemul/Ncmsry de interoperabilitate
+sistemele/Ncfpry de interoperabilitate
+
+semi-mască filtrantă împotriva particulelor/Ncfpoy reutilizabilă
+
+caz/Ncms-n secundar
+cazuri/Ncfp-n secundare
+cazului/Ncmsoy secundar
+cazurilor/Ncfpoy secundare
+cazul/Ncmsry secundar
+cazurile/Ncfpry secundare
+
+fragment/Ncms-n de ADN
+fragmente/Ncfp-n de ADN
+fragmentului/Ncmsoy de ADN
+fragmentelor/Ncfpoy de ADN
+fragmentul/Ncmsry de ADN
+fragmentele/Ncfpry de ADN
+
+glicoproteină de membrană/Ncfsrn
+glicoproteine de membrană/Ncfsrn
+glicoproteinei de membrană/Ncfsrn
+glicoproteinelor de membrană/Ncfsrn
+glicoproteina de membrană/Ncfsrn
+glicoproteinele de membrană/Ncfsrn
+
+fond/Ncms-n de redresare
+fonduri/Ncfp-n de redresare
+fondului/Ncmsoy de redresare
+fondurilor/Ncfpoy de redresare
+fondul/Ncmsry de redresare
+fondurile/Ncfpry de redresare
+
+fond/Ncms-n european de redresare
+fonduri/Ncfp-n europene de redresare
+fondului/Ncmsoy european de redresare
+fondurilor/Ncfpoy europene de redresare
+fondul/Ncmsry european de redresare
+fondurile/Ncfpry europene de redresare
+
+control/Ncms-n al bolilor
+controlului/Ncmsoy bolilor
+controlul/Ncmsry bolilor
+
+sistem/Ncms-n de puncte i-SPOC
+sistemului/Ncmsoy de puncte i-SPOC
+sistemul/Ncmsry de puncte i-SPOC
+
+dispnee/Ncf--n
+dispneei/Ncfsoy
+dispneea/Ncfsry
+
+echipament/Ncms-n individual de protecție
+echipamente/Ncfp-n individuale de protecție
+echipamentului/Ncmsoy individual de protecție
+echipamentelor/Ncfpoy individuale de protecție
+echipamentul/Ncmsry individual de protecție
+echipamentele/Ncfpry individuale de protecție
+
+punct/Ncms-n de triaj
+puncte/Ncfp-n de triaj
+punctului/Ncmsoy de triaj
+punctelor/Ncfpoy de triaj
+punctul/Ncmsry de triaj
+punctele/Ncfpry de triaj
+
+coronavirus al sindromului/Ncmsoy respirator acut sever
+coronavirusului sindromului/Ncmsoy respirator acut sever
+coronavirusul sindromului/Ncmsoy respirator acut sever
+
+Grup/Ncms-n de informare privind coronavirusul și COVID-19 - Frontiere
+Grupului/Ncmsoy de informare privind coronavirusul și COVID-19 - Frontiere
+Grupul/Ncmsry de informare privind coronavirusul și COVID-19 - Frontiere
+
+imunitate/Ncfsrn colectivă
+imunități/Ncfson colective
+imunității/Ncfsoy colective
+imunitatea/Ncfsry colectivă
+
+sindrom/Ncms-n pseudogripal
+sindroame/Ncfp-n pseudogripale
+sindromului/Ncmsoy pseudogripal
+sindroamelor/Ncfpoy pseudogripale
+sindromul/Ncmsry pseudogripal
+sindroamele/Ncfpry pseudogripale
+
+aspirat/Ncms-n nazofaringian
+aspiratului/Ncmsoy nazofaringian
+aspiratul/Ncmsry nazofaringian
+
+Program/Ncms-n de reconstrucție europeană
+Programului/Ncmsoy de reconstrucție europeană
+Programul/Ncmsry de reconstrucție europeană
+
+Plan/Ncms-n Marshall
+Planului/Ncmsoy Marshall
+Planul/Ncmsry Marshall
+
+Program/Ncms-n de redresare europeană
+Programului/Ncmsoy de redresare europeană
+Programul/Ncmsry de redresare europeană
+
+dispozitiv/Ncms-n pentru autotestare utilizat în cadrul aceleiași unități medicale
+dispozitive/Ncfp-n pentru autotestare utilizate în cadrul aceleiași unități medicale
+dispozitivului/Ncmsoy pentru autotestare utilizat în cadrul aceleiași unități medicale
+dispozitivelor/Ncfpoy pentru autotestare utilizate în cadrul aceleiași unități medicale
+dispozitivul/Ncmsry pentru autotestare utilizat în cadrul aceleiași unități medicale
+dispozitivele/Ncfpry pentru autotestare utilizate în cadrul aceleiași unități medicale
+
+Săptămână/Ncfsrn Mondială a Imunizării
+Săptămânii/Ncfsoy Mondiale a Imunizării
+Săptămâna/Ncfsry Mondială a Imunizării
+
+program/Ncms-n de achiziționare de obligațiuni emise de sectorul corporativ
+programului/Ncmsoy de achiziționare de obligațiuni emise de sectorul corporativ
+programul/Ncmsry de achiziționare de obligațiuni emise de sectorul corporativ
+
+program/Ncms-n de achiziții de urgență pandemică
+programului/Ncmsoy de achiziții de urgență pandemică
+programul/Ncmsry de achiziții de urgență pandemică
+
+program/Ncms-n de achiziționare în regim de urgență în caz de pandemie
+programului/Ncmsoy de achiziționare în regim de urgență în caz de pandemie
+programul/Ncmsry de achiziționare în regim de urgență în caz de pandemie
+
+învățământ/Ncms-n deschis
+învățământului/Ncmsoy deschis
+învățământul/Ncmsry deschis
+
+control/Ncms-n al infecțiilor
+controlului/Ncmsoy infecțiilor
+controlul/Ncmsry infecțiilor
+
+lucrător/Ncms-n transfrontalier
+lucrători/Ncmp-n transfrontalieri
+lucrătorului/Ncmsoy transfrontalier
+lucrătorilor/Ncmpoy transfrontalieri
+lucrătorul/Ncmsry transfrontalier
+lucrătorii/Ncmpry transfrontalieri
+
+navetist/Ncms-n transfrontalier
+navetiști/Ncmp-n transfrontalieri
+navetistului/Ncmsoy transfrontalier
+navetiștilor/Ncmpoy transfrontalieri
+navetistul/Ncmsry transfrontalier
+navetiștii/Ncmpry transfrontalieri
+
+avantaj/Ncms-n al primului venit
+avantaje/Ncfp-n ale primului venit
+avantajului/Ncmsoy primului venit
+avantajelor/Ncfpoy primului venit
+avantajul/Ncmsry primului venit
+avantajele/Ncfpry primului venit
+
+combinezon/Ncms-n de protecție
+combinezoane/Ncfp-n de protecție
+combinezonului/Ncmsoy de protecție
+combinezoanelor/Ncfpoy de protecție
+combinezonul/Ncmsry de protecție
+combinezoanele/Ncfpry de protecție
+
+stat/Ncms-n suveran
+state/Ncfp-n suverane
+statului/Ncmsoy suveran
+statelor/Ncfpoy suverane
+statul/Ncmsry suveran
+statele/Ncfpry suverane
+
+rating/Ncms-n triplu-A
+ratinguri/Ncfp-n triplu-A
+ratingului/Ncmsoy triplu-A
+ratingurilor/Ncfpoy triplu-A
+ratingul/Ncmsry triplu-A
+ratingurile/Ncfpry triplu-A
+
+rating/Ncms-n de credit triplu-A
+ratinguri/Ncfp-n de credit triplu-A
+ratingului/Ncmsoy de credit triplu-A
+ratingurilor/Ncfpoy de credit triplu-A
+ratingul/Ncmsry de credit triplu-A
+ratingurile/Ncfpry de credit triplu-A
+
+rating/Ncms-n AAA
+ratinguri/Ncfp-n AAA
+ratingului/Ncmsoy AAA
+ratingurilor/Ncfpoy AAA
+ratingul/Ncmsry AAA
+ratingurile/Ncfpry AAA
+
+lanț/Ncms-n valoric
+lanțuri/Ncfp-n valorice
+lanțului/Ncmsoy valoric
+lanțurilor/Ncfpoy valorice
+lanțul/Ncmsry valoric
+lanțurile/Ncfpry valorice
+
+material/Ncms-n de testare
+materiale/Ncfp-n de testare
+materialului/Ncmsoy de testare
+materialelor/Ncfpoy de testare
+materialul/Ncmsry de testare
+materialele/Ncfpry de testare
+
+anestezie/Ncfsrn și terapie intensivă
+
+medicament/Ncms-n pentru investigație clinică
+medicamente/Ncfp-n pentru investigație clinică
+medicamentului/Ncmsoy pentru investigație clinică
+medicamentelor/Ncfpoy pentru investigație clinică
+medicamentul/Ncmsry pentru investigație clinică
+medicamentele/Ncfpry pentru investigație clinică
+
+sindrom/Ncms-n respirator acut sever
+sindromului/Ncmsoy respirator acut sever
+sindromul/Ncmsry respirator acut sever
+
+studiu/Ncms-n clinic intervențional randomizat
+studii/Ncfp-n clinice intervenționale randomizate
+studiului/Ncmsoy clinic intervențional randomizat
+studiilor/Ncfpoy clinice intervenționale randomizate
+studiul/Ncmsry clinic intervențional randomizat
+studiile/Ncfpry clinice intervenționale randomizate
+
+trial/Ncms-n clinic randomizat
+trialuri/Ncfp-n clinice randomizate
+trialului/Ncmsoy clinic randomizat
+trialurilor/Ncfpoy clinice randomizate
+trialul/Ncmsry clinic randomizat
+trialurile/Ncfpry clinice randomizate
+
+MERS/Ncms-n
+
+sindrom/Ncms-n respirator din Orientul Mijlociu
+sindromului/Ncmsoy respirator din Orientul Mijlociu
+sindromul/Ncmsry respirator din Orientul Mijlociu
+
+navetist/Ncms-n frontalier
+navetiști/Ncmp-n frontalieri
+navetistului/Ncmsoy frontalier
+navetiștilor/Ncmpoy frontalieri
+navetistul/Ncmsry frontalier
+navetiștii/Ncmpry frontalieri
+
+lucrător/Ncms-n frontalier
+lucrători/Ncmp-n frontalieri
+lucrătorului/Ncmsoy frontalier
+lucrătorilor/Ncmpoy frontalieri
+lucrătorul/Ncmsry frontalier
+lucrătorii/Ncmpry frontalieri
+
+medicament/Ncms-n antiviral
+medicamente/Ncfp-n antivirale
+medicamentului/Ncmsoy antiviral
+medicamentelor/Ncfpoy antivirale
+medicamentul/Ncmsry antiviral
+medicamentele/Ncfpry antivirale
+
+caz/Ncms-n probabil
+cazuri/Ncfp-n probabile
+cazului/Ncmsoy probabil
+cazurilor/Ncfpoy probabile
+cazul/Ncmsry probabil
+cazurile/Ncfpry probabile
+
